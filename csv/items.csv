@@ -1,0 +1,275 @@
+id,name,name_jp,name_jp_meaning,short_name,item_type_id,generation_id,buyable,sell_price
+1,"Poké Ball","モンスターボール","Monster Ball","poké-ball",1,1,1,100
+2,"Great Ball","スーパーボール","Super Ball",great-ball,1,1,1,300
+3,"Ultra Ball","ハイパーボール","Hyper Ball",ultra-ball,1,1,1,600
+4,"Master Ball","マスターボール","Master Ball",master-ball,1,1,0,0
+5,"Safari Ball","サファリボール","Safari Ball",safari-ball,1,1,0,0
+6,"Level Ball","レベルボール","Level Ball",level-ball,1,2,0,150
+7,"Lure Ball","ルアーボール","Lure Ball",lure-ball,1,2,0,150
+8,"Moon Ball","ムーンボール","Moon Ball",moon-ball,1,2,0,150
+9,"Friend Ball","フレンドボール","Friend Ball",friend-ball,1,2,0,150
+10,"Love Ball","ラブラブボール","Love Love Ball",love-ball,1,2,0,150
+11,"Heavy Ball","ヘビーボール","Heavy Ball",heavy-ball,1,2,0,150
+12,"Fast Ball","スピードボール","Speed Ball",fast-ball,1,2,0,150
+13,"Sport Ball","コンペボール","Compé Ball",sport-ball,1,2,0,0
+14,"Premier Ball","プレミアボール","Premier Ball",premier-ball,1,3,0,100
+15,"Repeat Ball","リピートボール","Repeat Ball",repeat-ball,1,3,1,500
+16,"Timer Ball","タイマーボール","Timer Ball",timer-ball,1,3,1,500
+17,"Nest Ball","ネストボール","Nest Ball",nest-ball,1,3,1,500
+18,"Net Ball","ネットボール","Net Ball",net-ball,1,3,1,500
+19,"Dive Ball","ダイブボール","Dive Ball",dive-ball,1,3,1,500
+20,"Luxury Ball","ゴージャスボール","Gorgeous Ball",luxury-ball,1,3,1,500
+21,"Heal Ball","ヒールボール","Heal Ball",heal-ball,1,4,1,150
+22,"Quick Ball","クイックボール","Quick Ball",quick-ball,1,4,1,500
+23,"Dusk Ball","ダークボール","Dark Ball",dusk-ball,1,4,1,500
+24,"Cherish Ball","プレジャスボール","Precious Ball",cherish-ball,1,4,0,500
+25,"Park Ball","パークボール","Park Ball",park-ball,1,4,0,0
+26,"Red Apricorn","あかぼんぐり","Aka Bonguri",red-apricorn,3,2,0,100
+27,"Ylw Apricorn","きぼんぐり","Ki Bonguri",ylw-apricorn,3,2,0,100
+28,"Blu Apricorn","あおぼんぐり","Ao Bonguri",blu-apricorn,3,2,0,100
+29,"Grn Apricorn","みどぼんぐり","Mido Bonguri",grn-apricorn,3,2,0,100
+30,"Pnk Apricorn","ももぼんぐり","Momo Bonguri",pnk-apricorn,3,2,0,100
+31,"Wht Apricorn","しろぼんぐり","Shiro Bonguri",wht-apricorn,3,2,0,100
+32,"Blk Apricorn","くろぼんぐり","Kuro Bonguri",blk-apricorn,3,2,0,100
+33,"HP Up","マックスアップ","Max Up",hp-up,4,1,1,4900
+34,Protein,"タウリン",Taurine,protein,4,1,1,4900
+35,Iron,"ブロムヘキシン",Bromhexine,iron,4,1,1,4900
+36,Calcium,"リゾチウム",Lysozyme,calcium,4,1,1,4900
+37,Zinc,"キトサン",Chitosan,zinc,4,3,1,4900
+38,Carbos,"インドメタシン",Indometacin,carbos,4,1,1,4900
+39,"PP Up","ポイントアップ","Point Up",pp-up,4,1,0,4900
+40,"PP Max","ポイントマックス","Point Max",pp-max,4,3,0,4900
+41,"Rare Candy","ふしぎなアメ","Mysterious Candy",rare-candy,4,1,0,2400
+42,"Fire Stone","ほのおのいし","Fire Stone",fire-stone,5,1,1,1050
+43,"Water Stone","みずのいし","Water Stone",water-stone,5,1,1,1050
+44,Thunderstone,"かみなりのいし","Thunder Stone",thunderstone,5,1,1,1050
+45,"Leaf Stone","リーフのいし","Leaf Stone",leaf-stone,5,1,1,1050
+46,"Moon Stone","つきのいし","Moon Stone",moon-stone,5,1,0,1050
+47,"Sun Stone","たいようのいし","Sun Stone",sun-stone,5,2,0,1050
+48,"Shiny Stone","ひかりのいし","Light Stone",shiny-stone,5,4,0,1050
+49,"Dusk Stone","やみのいし","Dark Stone",dusk-stone,5,4,0,1050
+50,"Dawn Stone","めざめいし","Awakening Stone",dawn-stone,5,4,0,1050
+51,Everstone,"かわらずのいし","Unchanging Stone",everstone,5,2,0,100
+52,Potion,"キズぐすり","Wound Medicine",potion,6,1,1,150
+53,"Super Potion","いいキズぐすり","Good Wound Medicine",super-potion,6,1,1,350
+54,"Hyper Potion","すごいキズぐすり","Amazing Wound Medicine",hyper-potion,6,1,1,600
+55,"Max Potion","まんたんのくすり","Tank-Filling Medicine",max-potion,6,1,1,1250
+56,"Full Restore","かいふくのくすり","Recovery Medicine",full-restore,6,1,1,1500
+58,Antidote,"どくけし",Antidote,antidote,7,1,1,50
+59,"Parlyz Heal","まひなおし","Paralysis Heal",parlyz-heal,7,1,1,100
+60,Awakening,"ねむけざまし","Drowsiness Cure",awakening,7,1,1,125
+61,"Burn Heal","やけどなおし","Burn Heal",burn-heal,7,1,1,125
+62,"Ice Heal","こおりなおし","Ice Heal",ice-heal,7,1,1,125
+63,"Full Heal","なんでもなおし",Heal-All,full-heal,7,1,1,300
+64,"Full Restore","かいふくのくすり","Recovery Medicine",full-restore,7,1,1,1500
+65,"Lava Cookie","フエンせんべい"," Rice Cracker",lava-cookie,7,3,1,100
+66,"Old Gateau","もりのヨウカン","Forest Yōkan",old-gateau,7,4,0,100
+67,"Fresh Water","おいしいみず","Delicious Water",fresh-water,8,1,1,100
+68,Lemonade,"ミックスオレ","Mix au Lait",lemonade,8,1,1,175
+69,"Moomoo Milk","モーモーミルク","MooMoo Milk",moomoo-milk,8,2,1,250
+70,"Berry Juice","きのみジュース","Berry Juice",berry-juice,8,2,0,50
+72,"Heal Powder","ばんのうごな","Kilesa Powder",heal-powder,9,2,1,225
+73,EnergyPowder,"ちからのこな","Energy Powder",energypowder,9,2,1,250
+74,"Energy Root","ちからのねっこ","Energy Root",energy-root,9,2,1,400
+75,"Revival Herb","ふっかつそう","Revival Herb",revival-herb,9,2,1,1400
+76,Ether,"ピーピーエイド","PP Aid",ether,10,1,0,600
+77,"Max Ether","ピーピーリカバー","PP Recover",max-ether,10,1,0,1000
+78,Elixir,"ピーピーエイダー","PP Aider",elixir,10,1,0,1500
+79,"Max Elixir","ピーピーマックス","PP Max",max-elixir,10,1,0,2250
+80,Revive,"げんきのかけら","Vitality Piece",revive,11,1,1,750
+81,"Max Revive","げんきのかたまり","Vitality Clump",max-revive,11,1,0,2000
+82,"X Attack","プラスパワー",PlusPower,x-attack,12,1,1,250
+83,"X Defend","ディフェンダー",Defender,x-defend,12,1,1,275
+84,"X Special","スペシャルアップ","Special Up",x-special,12,1,1,175
+85,"X Sp. Def","スペシャルガード","Special Guard",x-sp-def,12,4,1,175
+86,"X Speed","スピーダー",Speeder,x-speed,12,1,1,175
+87,"X Accuracy","ヨクアタール",Yokuataaru,x-accuracy,12,1,1,475
+88,"Dire Hit","クリティカッター",Criticutter,dire-hit,12,1,1,325
+89,"Guard Spec.","エフェクトガード","Effect Guard",guard-spec,12,1,1,350
+90,"Adamant Orb","こんごうだま","Adamant Orb",adamant-orb,13,4,0,5000
+91,"Black Belt","くろおび","Black Belt",black-belt,13,2,0,50
+92,BlackGlasses,"くろいメガネ","Black Glasses",blackglasses,13,2,0,50
+93,Charcoal,"もくたん",Charcoal,charcoal,13,2,1,4900
+94,"Dragon Fang","りゅうのキバ","Dragon Fang",dragon-fang,13,2,0,50
+95,"Griseous Orb","はっきんだま","Platinous Orb",griseous-orb,13,4,0,5000
+96,"Hard Stone","かたいいし","Hard Stone",hard-stone,13,2,0,50
+97,"Lustrous Orb","しらたま","Pale Orb",lustrous-orb,13,4,0,5000
+98,Magnet,"じしゃく",Magnet,magnet,13,2,0,50
+99,"Metal Coat","メタルコート","Metal Coat",metal-coat,13,2,0,50
+100,"Miracle Seed","きせきのタネ","Miracle Seed",miracle-seed,13,2,0,50
+101,"Mystic Water","しんぴのしずく","Mysterious Droplet",mystic-water,13,2,0,50
+102,NeverMeltIce,"とけないこおり","Never-Melting Ice",nevermeltice,13,2,0,50
+104,"Poison Barb","どくバリ","Poison Barb",poison-barb,13,2,0,50
+106,"Sharp Beak","するどいくちばし","Sharp Beak",sharp-beak,13,2,0,50
+107,"Silk Scarf","シルクのスカーフ","Silk Scarf",silk-scarf,13,3,0,50
+108,SilverPowder,"ぎんのこな","Silver Powder",silverpowder,13,2,0,50
+109,"Soft Sand","やわらかいすな","Soft Sand",soft-sand,13,2,0,50
+110,"Spell Tag","のろいのおふだ","Cursed Ofuda",spell-tag,13,2,0,50
+111,TwistedSpoon,"まがったスプーン","Bent Spoon",twistedspoon,13,2,0,50
+112,DeepSeaScale,"しんかいのウロコ","Deep Sea Scale",deepseascale,14,3,0,100
+113,DeepSeaTooth,"しんかいのキバ","Deep Sea Fang",deepseatooth,14,3,0,100
+114,"Light Ball","でんきだま","Electric Ball",light-ball,14,2,0,0
+115,"Lucky Punch","ラッキーパンチ"," Punch",lucky-punch,14,2,0,5
+116,"Metal Powder","メタルパウダー","Metal Powder",metal-powder,14,2,0,5
+117,"Quick Powder","スピードパウダー","Speed Powder",quick-powder,14,4,0,5
+118,"Soul Dew","こころのしずく","Soul Drop",soul-dew,14,3,0,0
+119,Stick,"ながねぎ","Long Onion",stick,14,2,0,100
+120,"Thick Club","ふといホネ","Thick Bone",thick-club,14,2,0,0
+121,"Choice Band","こだわりハチマキ","Determination Headband",choice-band,15,3,0,50
+122,"Choice Scarf","こだわりスカーフ","Determination Scarf",choice-scarf,15,4,0,100
+123,"Choice Specs","こだわりメガネ","Determination Glasses",choice-specs,15,4,0,100
+124,"Damp Rock","しめったいわ","Damp Rock",damp-rock,15,4,0,100
+125,"Heat Rock","あついいわ","Hot Rock",heat-rock,15,4,0,100
+126,"Icy Rock","つめたいいわ","Icy Rock",icy-rock,15,4,0,100
+127,"Smooth Rock","さらさらいわ","Smooth Rock",smooth-rock,15,4,0,100
+128,"Grip Claw","ねばりのかぎづめ","Sticky Claw",grip-claw,15,4,0,100
+129,"Light Clay","ひかりのねんど","Light Clay",light-clay,15,4,0,100
+130,"Mental Herb","メンタルハーブ","Mental Herb",mental-herb,15,3,0,50
+131,"Power Herb","パワフルハーブ","Powerful Herb",power-herb,15,4,0,50
+132,"White Herb","しろいハーブ","White Herb",white-herb,15,3,0,50
+133,"Big Root","おおきなねっこ","Big Root",big-root,15,4,0,100
+134,"Black Sludge","くろいヘドロ","Black Sludge",black-sludge,15,4,0,100
+135,Leftovers,"たべのこし",Leftovers,leftovers,15,2,0,100
+136,"Shell Bell","かいがらのすず","Seashell Bell",shell-bell,15,3,0,100
+138,"Expert Belt","たつじんのおび","Expert Belt",expert-belt,15,4,0,100
+139,"Life Orb","いのちのたま","Life Orb",life-orb,15,4,0,100
+140,Metronome,"メトロノーム",Metronome,metronome,15,4,0,100
+141,"Muscle Band","ちからのハチマキ","Power Headband",muscle-band,15,4,0,100
+142,"Scope Lens","ピントレンズ","Point Lens",scope-lens,15,2,0,100
+143,"Wide Lens","こうかくレンズ","Wide-angle Lens",wide-lens,15,4,0,100
+144,"Wise Glasses","ものしりメガネ","Knowledgeable Glasses",wise-glasses,15,4,0,100
+145,"Zoom Lens","フォーカスレンズ","Focus Lens",zoom-lens,15,4,0,100
+146,"Lagging Tail","こうこうのしっぽ","Second Hitter Tail",lagging-tail,15,4,0,100
+147,"Quick Claw","せんせいのツメ","Preemptive Claw",quick-claw,15,2,0,50
+148,"Focus Band","きあいのハチマキ","Fighting Spirit Headband",focus-band,15,2,0,0
+149,"Focus Sash","きあいのタスキ","Focus Strip",focus-sash,15,4,0,100
+150,"Flame Orb","かえんだま","Flame Orb",flame-orb,15,4,0,100
+151,"Toxic Orb","どくどくだま","Excessive Poison Orb",toxic-orb,15,4,0,100
+152,"Sticky Barb","くっつきばり","Sticky Barb",sticky-barb,15,4,0,100
+153,"Iron Ball","くろいてっきゅう","Black Iron Ball",iron-ball,15,4,0,100
+154,"Amulet Coin","おまもりこばん","Amulet Koban",amulet-coin,15,2,0,50
+155,BrightPowder,"ひかりのこな","Light Powder",brightpowder,15,2,0,5
+156,"Destiny Knot","あかいいと","Red Thread",destiny-knot,15,4,0,100
+157,"Shed Shell","きれいなぬけがら","Pretty Shed Shell",shed-shell,15,4,0,50
+158,"Smoke Ball","けむりだま","Smoke Ball",smoke-ball,15,2,0,100
+159,DeepSeaScale,"しんかいのウロコ","Deep Sea Scale",deepseascale,16,3,0,100
+160,DeepSeaTooth,"しんかいのキバ","Deep Sea Fang",deepseatooth,16,3,0,100
+161,"Dragon Scale","りゅうのウロコ","Dragon's Scale",dragon-scale,16,2,0,1050
+162,"Dubious Disc","あやしいパッチ","Suspicious Patch",dubious-disc,16,4,0,1050
+163,Electirizer,"エレキブースター",Elekibooster,electirizer,16,4,0,1050
+164,"King's Rock","おうじゃのしるし","King's Symbol",kings-rock,16,2,0,50
+165,Magmarizer,"マグマブースター",Magmabooster,magmarizer,16,4,0,1050
+166,"Metal Coat","メタルコート","Metal Coat",metal-coat,16,2,0,50
+167,Protector,"プロテクター",Protector,protector,16,4,0,1050
+168,"Reaper Cloth","れいかいのぬの","Spirit World Cloth",reaper-cloth,16,4,0,1050
+169,Up-Grade,"アップグレード",Upgrade,up-grade,16,2,0,1050
+170,"Oval Stone","まんまるいし","Round Stone",oval-stone,16,4,0,1050
+171,"Razor Claw","するどいツメ","Sharp Claw",razor-claw,16,4,0,1050
+172,"Razor Fang","するどいキバ","Sharp Fang",razor-fang,16,4,0,1050
+173,"Exp. Share","がくしゅうそうち","Educative Device",exp-share,17,2,0,1500
+174,"Lucky Egg","しあわせタマゴ","Lucky Egg",lucky-egg,17,2,0,200
+175,"Macho Brace","きょうせいギプス","Corrective Cast",macho-brace,18,3,0,1500
+176,"Power Weight","パワーウエイト","Power Weight",power-weight,18,4,0,1500
+177,"Power Bracer","パワーリスト","Power Wrist",power-bracer,18,4,0,1500
+178,"Power Belt","パワーベルト","Power Belt",power-belt,18,4,0,1500
+179,"Power Lens","パワーレンズ","Power Lens",power-lens,18,4,0,1500
+180,"Power Band","パワーバンド","Power Band",power-band,18,4,0,1500
+181,"Power Anklet","パワーアンクル","Power Ankle",power-anklet,18,4,0,1500
+182,"Full Incense","まんぷくおこう","Full Incense",full-incense,19,4,0,4800
+183,"Lax Incense","のんきのおこう","Carefree Incense",lax-incense,19,3,0,4800
+184,"Luck Incense","こううんのおこう","Lucky Incense",luck-incense,19,4,0,4800
+185,"Odd Incense","あやしいおこう","Suspicious Incense",odd-incense,19,4,0,4800
+186,"Pure Incense","きよめのおこう","Purification Incense",pure-incense,19,4,0,4800
+187,"Rock Incense","がんせきおこう","Rock Incense",rock-incense,19,4,0,4800
+188,"Rose Incense","おはなのおこう","Flower Incense",rose-incense,19,4,0,4800
+189,"Sea Incense","うしおのおこう","Tide Incense",sea-incense,19,3,0,4800
+190,"Wave Incense","さざなみのおこう","Ripple Incense",wave-incense,19,4,0,4800
+191,"Draco Plate","りゅうのプレート","Dragon Plate",draco-plate,20,4,0,500
+192,"Dread Plate","こわもてプレート","Fearful Favor Plate",dread-plate,20,4,0,500
+193,"Earth Plate","だいちのプレート","Earth Plate",earth-plate,20,4,0,500
+194,"Fist Plate","こぶしのプレート","Fist Plate",fist-plate,20,4,0,500
+195,"Flame Plate","ひのたまプレート","Fireball Plate",flame-plate,20,4,0,500
+196,"Icicle Plate","つららのプレート","Icicle Plate",icicle-plate,20,4,0,500
+197,"Insect Plate","たまむしプレート","Jewel Beetle Plate",insect-plate,20,4,0,500
+198,"Iron Plate","こうてつプレート","Steel Plate",iron-plate,20,4,0,500
+199,"Meadow Plate","みどりのプレート","Verdure Plate",meadow-plate,20,4,0,500
+200,"Mind Plate","ふしぎのプレート","Mystery Plate",mind-plate,20,4,0,500
+201,"Sky Plate","あおぞらプレート","Blue Sky Plate",sky-plate,20,4,0,500
+202,"Splash Plate","しずくプレート","Drop Plate",splash-plate,20,4,0,500
+203,"Spooky Plate","もののけプレート","Specter Plate",spooky-plate,20,4,0,500
+204,"Stone Plate","がんせきプレート","Rock Plate",stone-plate,20,4,0,500
+205,"Toxic Plate","もうどくプレート","Deadly Poison Plate",toxic-plate,20,4,0,500
+206,"Zap Plate","いかずちプレート","Thunder Plate",zap-plate,20,4,0,500
+207,"Blue Scarf","あおいバンダナ","Blue Bandanna",blue-scarf,21,3,0,50
+208,"Green Scarf","みどりのバンダナ","Green Bandanna",green-scarf,21,3,0,50
+209,"Pink Scarf","ピンクのバンダナ","Pink Bandanna",pink-scarf,21,3,0,50
+210,"Red Scarf","あかいバンダナ","Red Bandanna",red-scarf,21,3,0,50
+211,"Yellow Scarf","きいろのバンダナ","Yellow Bandanna",yellow-scarf,21,3,0,50
+212,Repel,"むしよけスプレー","Repellent Spray",repel,22,1,1,175
+213,"Super Repel","シルバースプレー","Silver Spray",super-repel,22,1,1,250
+214,"Max Repel","ゴールドスプレー","Gold Spray",max-repel,22,1,1,350
+215,"Cleanse Tag","きよめのおふだ","Purification Ofuda",cleanse-tag,22,2,0,100
+216,"Cheri Berry","クラボのみ","Kurabo Berry",cheri-berry,2,4,0,0
+217,"Chesto Berry","カゴのみ","Kago Berry",chesto-berry,2,4,0,0
+218,"Pecha Berry","モモンのみ","Momon Berry",pecha-berry,2,4,0,0
+219,"Rawst Berry","チーゴのみ","Cheego Berry",rawst-berry,2,4,0,0
+220,"Aspear Berry","ナナシのみ","Nanashi Berry",aspear-berry,2,4,0,0
+221,"Leppa Berry","ヒメリのみ","Himeri Berry",leppa-berry,2,4,0,0
+222,"Oran Berry","オレンのみ","Oran Berry",oran-berry,2,4,0,0
+223,"Persim Berry","キーのみ","Kī Berry",persim-berry,2,4,0,0
+224,"Lum Berry","ラムのみ","Lum Berry",lum-berry,2,4,0,0
+225,"Sitrus Berry","オボンのみ","Obon Berry",sitrus-berry,2,4,0,0
+226,"Figy Berry","フィラのみ","Fira Berry",figy-berry,2,4,0,0
+227,"Wiki Berry","ウイのみ","Wi Berry",wiki-berry,2,4,0,0
+228,"Mago Berry","マゴのみ","Mago Berry",mago-berry,2,4,0,0
+229,"Aguav Berry","バンジのみ","Banji Berry",aguav-berry,2,4,0,0
+230,"Iapapa Berry","イアのみ","Ia Berry",iapapa-berry,2,4,0,0
+231,"Razz Berry","ズリのみ","Zuri Berry",razz-berry,2,4,0,0
+232,"Bluk Berry","ブリーのみ","Burī Berry",bluk-berry,2,4,0,0
+233,"Nanab Berry","ナナのみ","Nana Berry",nanab-berry,2,4,0,0
+234,"Wepear Berry","セシナのみ","Seshina Berry",wepear-berry,2,4,0,0
+235,"Pinap Berry","パイルのみ","Pairu Berry",pinap-berry,2,4,0,0
+236,"Pomeg Berry","ザロクのみ","Zaroku Berry",pomeg-berry,2,4,0,0
+237,"Kelpsy Berry","ネコブのみ","Nekobu Berry",kelpsy-berry,2,4,0,0
+238,"Qualot Berry","タポルのみ","Taporu Berry",qualot-berry,2,4,0,0
+239,"Hondew Berry","ロメのみ","Rome Berry",hondew-berry,2,4,0,0
+240,"Grepa Berry","ウブのみ","Ubu Berry",grepa-berry,2,4,0,0
+241,"Tamato Berry","マトマのみ","Matoma Berry",tamato-berry,2,4,0,0
+242,"Cornn Berry","モコシのみ","Mokoshi Berry",cornn-berry,2,4,0,0
+243,"Magost Berry","ゴスのみ","Gos Berry",magost-berry,2,4,0,0
+244,"Rabuta Berry","ラブタのみ","Rabuta Berry",rabuta-berry,2,4,0,0
+245,"Nomel Berry","ノメルのみ","Nomel Berry",nomel-berry,2,4,0,0
+246,"Spelon Berry","ノワキのみ","Nowaki Berry",spelon-berry,2,4,0,0
+247,"Pamtre Berry","シーヤのみ","Sheeya Berry",pamtre-berry,2,4,0,0
+248,"Watmel Berry","カイスのみ","Kaisu Berry",watmel-berry,2,4,0,0
+249,"Durin Berry","ドリのみ","Duri Berry",durin-berry,2,4,0,0
+250,"Belue Berry","ベリブのみ","Beribu Berry",belue-berry,2,4,0,0
+251,"Occa Berry","オッカのみ","Occa Berry",occa-berry,2,4,0,0
+252,"Passho Berry","イトケのみ","Itoke Berry",passho-berry,2,4,0,0
+253,"Wacan Berry","ソクノのみ","Sokuno Berry",wacan-berry,2,4,0,0
+254,"Rindo Berry","リンドのみ","Rindo Berry",rindo-berry,2,4,0,0
+255,"Yache Berry","ヤチェのみ","Yache Berry",yache-berry,2,4,0,0
+256,"Chople Berry","ヨプのみ","Yop Berry",chople-berry,2,4,0,0
+257,"Kebia Berry","ビアーのみ","Biah Berry",kebia-berry,2,4,0,0
+258,"Shuca Berry","シュカのみ","Shuca Berry",shuca-berry,2,4,0,0
+259,"Coba Berry","バコウのみ","Baco Berry",coba-berry,2,4,0,0
+260,"Payapa Berry","ウタンのみ","Utan Berry",payapa-berry,2,4,0,0
+261,"Tanga Berry","タンガのみ","Tanga Berry",tanga-berry,2,4,0,0
+262,"Charti Berry","ヨロギのみ","Yorogi Berry",charti-berry,2,4,0,0
+263,"Kasib Berry","カシブのみ","Kasib Berry",kasib-berry,2,4,0,0
+264,"Haban Berry","ハバンのみ","Haban Berry",haban-berry,2,4,0,0
+265,"Colbur Berry","ナモのみ","Namo Berry",colbur-berry,2,4,0,0
+266,"Babiri Berry","リリバのみ","Ririba Berry",babiri-berry,2,4,0,0
+267,"Chilan Berry","ホズのみ","Hozu Berry",chilan-berry,2,4,0,0
+268,"Liechi Berry","チイラのみ","Chyla Berry",liechi-berry,2,4,0,0
+269,"Ganlon Berry","リュガのみ","Ryuga Berry",ganlon-berry,2,4,0,0
+270,"Salac Berry","カムラのみ","Camula Berry",salac-berry,2,4,0,0
+271,"Petaya Berry","ヤタピのみ","Yatapi Berry",petaya-berry,2,4,0,0
+272,"Apicot Berry","ズアのみ","Zua Berry",apicot-berry,2,4,0,0
+273,"Lansat Berry","サンのみ","Sang Berry",lansat-berry,2,4,0,0
+274,"Starf Berry","スターのみ","Star Berry",starf-berry,2,4,0,0
+275,"Enigma Berry","ナゾのみ","Nazo Berry",enigma-berry,2,4,0,0
+276,"Micle Berry","ミクルのみ","Micle Berry",micle-berry,2,4,0,0
+277,"Custap Berry","イバンのみ","Iban Berry",custap-berry,2,4,0,0
+278,"Jaboca Berry","ジャポのみ","Japo Berry",jaboca-berry,2,4,0,0
+279,"Rowap Berry","レンブのみ","Renbu Berry",rowap-berry,2,4,0,0

@@ -1,0 +1,165 @@
+id,identifier,name,name_jp,name_jp_tm,generation_id,color_id
+1,stench,Stench,"あくしゅう",Stench,3,4
+2,drizzle,Drizzle,"あめふらし",Rainfall,3,11
+3,speed-boost,"Speed Boost","かそく",Acceleration,3,23
+4,battle-armor,"Battle Armor","カブトアーマー","Kabuto Armor",3,6
+5,sturdy,Sturdy,"がんじょう",Sturdy,3,6
+6,damp,Damp,"しめりけ",Moisture,3,11
+7,limber,Limber,"じゅうなん",Flexible,3,13
+8,sand-veil,"Sand Veil","すながくれ","Hidden in Sand",3,5
+9,static,Static,"せいでんき","Static Electricity",3,13
+10,volt-absorb,"Volt Absorb","ちくでん","Electricity Storage",3,13
+11,water-absorb,"Water Absorb","ちょすい","Water Storage",3,11
+12,oblivious,Oblivious,"どんかん",Thickheaded,3,14
+13,cloud-nine,"Cloud Nine","ノーてんき","No Weather",3,1
+14,compoundeyes,Compoundeyes,"ふくがん","Compound Eyes",3,7
+15,insomnia,Insomnia,"ふみん",Insomnia,3,1
+16,color-change,"Color Change","へんしょく","Color Change",3,1
+17,immunity,Immunity,"めんえき",Immunity,3,4
+18,flash-fire,"Flash Fire","もらいび","Received Fire",3,10
+19,shield-dust,"Shield Dust","りんぷん","Moth Scales",3,7
+20,own-tempo,"Own Tempo","マイペース","My Pace",3,14
+21,suction-cups,"Suction Cups","きゅうばん","Suction Cups",3,11
+22,intimidate,Intimidate,"いかく",Menace,3,19
+23,shadow-tag,"Shadow Tag","かげふみ","Stepping on Shadows",3,14
+24,rough-skin,"Rough Skin","さめはだ",Sharkskin,3,16
+25,wonder-guard,"Wonder Guard","ふしぎなまもり","Mysterious Protection",3,8
+26,levitate,Levitate,"ふゆう",Floating,3,3
+27,effect-spore,"Effect Spore","ほうし",Spore,3,12
+28,synchronize,Synchronize,"シンクロ",Synchro,3,14
+29,clear-body,"Clear Body","クリアボディ","Clear Body",3,9
+30,natural-cure,"Natural Cure","しぜんかいふく","Natural Recovery",3,12
+31,lightningrod,Lightningrod,"ひらいしん","Lightning Rod",3,13
+32,serene-grace,"Serene Grace","てんのめぐみ","Heavenly Blessing",3,1
+33,swift-swim,"Swift Swim","すいすい",Smoothly,3,11
+34,chlorophyll,Chlorophyll,"ようりょくそ",Chlorophyll,3,12
+35,illuminate,Illuminate,"はっこう",Luminescence,3,13
+36,trace,Trace,"トレース",Trace,3,14
+37,huge-power,"Huge Power","ちからもち",Muscleman,3,11
+38,poison-point,"Poison Point","どくのトゲ","Poison Spine",3,4
+39,inner-focus,"Inner Focus","せいしんりょく","Force of Will",3,2
+40,magma-armor,"Magma Armor","マグマのよろい","Magma Armor",3,10
+41,water-veil,"Water Veil","みずのベール","Water Veil",3,11
+42,magnet-pull,"Magnet Pull","じりょく",Magnetism,3,9
+43,soundproof,Soundproof,"ぼうおん",Soundproof,3,1
+44,rain-dish,"Rain Dish","あめうけざら","Rain Saucer",3,11
+45,sand-stream,"Sand Stream","すなおこし","Sand Raising",3,5
+46,pressure,Pressure,"プレッシャー",Pressure,3,16
+47,thick-fat,"Thick Fat","あついしぼう","Thick Fat",3,15
+48,early-bird,"Early Bird","はやおき","Early Rising",3,3
+49,flame-body,"Flame Body","ほのおのからだ","Flame Body",3,10
+50,run-away,"Run Away","にげあし","Running Away",3,1
+51,keen-eye,"Keen Eye","するどいめ","Keen Eye",3,3
+52,hyper-cutter,"Hyper Cutter","かいりきバサミ","Superpowerful Claws",3,19
+53,pickup,Pickup,"ものひろい","Picking Up Things",3,29
+54,truant,Truant,"なまけ",Lazy,3,1
+55,hustle,Hustle,"はりきり",Enthusiasm,3,19
+56,cute-charm,"Cute Charm","メロメロボディ","Intoxicating Body",3,26
+57,plus,Plus,"プラス",Plus,3,21
+58,minus,Minus,"マイナス",Minus,3,21
+59,forecast,Forecast,"てんきや",Weatherman,3,1
+60,sticky-hold,"Sticky Hold","ねんちゃく",Adhesion,3,4
+61,shed-skin,"Shed Skin","だっぴ",Molting,3,7
+62,guts,Guts,"こんじょう",Guts,3,19
+63,marvel-scale,"Marvel Scale","ふしぎなうろこ","Marvelous Scale",3,20
+64,liquid-ooze,"Liquid Ooze","ヘドロえき","Oozing Liquid",3,4
+65,overgrow,Overgrow,"しんりょく","Fresh Greenery",3,12
+66,blaze,Blaze,"もうか","Raging Flames",3,10
+67,torrent,Torrent,"げきりゅう","Raging Rapids",3,11
+68,swarm,Swarm,"むしのしらせ","Bug Notification",3,7
+69,rock-head,"Rock Head","いしあたま","Rock Head",3,6
+70,drought,Drought,"ひでり",Drought,3,10
+71,arena-trap,"Arena Trap","ありじごく",Antlion,3,5
+72,vital-spirit,"Vital Spirit","やるき",Willingness,3,1
+73,white-smoke,"White Smoke","しろいけむり","White Smoke",3,10
+74,pure-power,"Pure Power","ヨガパワー","Yoga Power",3,2
+75,shell-armor,"Shell Armor","シェルアーマー","Shell Armor",3,11
+76,air-lock,"Air Lock","エアロック","Air Lock",3,3
+77,tangled-feet,"Tangled Feet","ちどりあし","Tottering Steps",4,1
+78,motor-drive,"Motor Drive","でんきエンジン","Electric Engine",4,13
+79,rivalry,Rivalry,"とうそうしん","Heart of Conflict",4,16
+80,steadfast,Steadfast,"ふくつのこころ","Indomitable Heart",4,2
+81,snow-cloak,"Snow Cloak","ゆきがくれ","Hidden in the Snow",4,15
+82,gluttony,Gluttony,"くいしんぼう",Glutton,4,30
+83,anger-point,"Anger Point","いかりのつぼ","Anger Point",4,19
+84,unburden,Unburden,"かるわざ",Acrobatics,4,23
+85,heatproof,Heatproof,"たいねつ",Heatproof,4,9
+86,simple,Simple,"たんじゅん",Simple,4,1
+87,dry-skin,"Dry Skin","かんそうはだ","Dry Skin",4,18
+88,download,Download,"ダウンロード",Download,4,1
+89,iron-fist,"Iron Fist","てつのこぶし","Iron Fist",4,2
+90,poison-heal,"Poison Heal","ポイズンヒール","Poison Heal",4,4
+91,adaptability,Adaptability,"てきおうりょく","Adaptable Power",4,1
+92,skill-link,"Skill Link","スキルリンク","Skill Link",4,1
+93,hydration,Hydration,"うるおいボディ","Wet Body",4,11
+94,solar-power,"Solar Power","サンパワー","Sun Power",4,21
+95,quick-feet,"Quick Feet","はやあし","Quick Feet",4,23
+96,normalize,Normalize,"ノーマルスキン","Normal Skin",4,1
+97,sniper,Sniper,"スナイパー",Sniper,4,11
+98,magic-guard,"Magic Guard","マジックガード","Magic Guard",4,14
+99,no-guard,"No Guard","ノーガード","No Guard",4,2
+100,stall,Stall,"あとだし","Going After",4,8
+101,technician,Technician,"テクニシャン",Technician,4,1
+102,leaf-guard,"Leaf Guard","リーフガード","Leaf Guard",4,12
+103,klutz,Klutz,"ぶきよう",Clumsy,4,29
+104,mold-breaker,"Mold Breaker","かたやぶり",Mold-Breaking,4,6
+105,super-luck,"Super Luck","きょううん","Good Luck",4,3
+106,aftermath,Aftermath,"ゆうばく",Detonation,4,4
+107,anticipation,Anticipation,"きけんよち","Danger Premonition",4,2
+108,forewarn,Forewarn,"よちむ","Prophetic Dream",4,14
+109,unaware,Unaware,"てんねん",Spontaneity,4,1
+110,tinted-lens,"Tinted Lens","いろめがね","Tinted Glasses",4,7
+111,filter,Filter,"フィルター",Filter,4,14
+112,slow-start,"Slow Start","スロースタート","Slow Start",4,1
+113,scrappy,Scrappy,"きもったま",Spunk,4,1
+114,storm-drain,"Storm Drain","よびみず","Pump Priming",4,11
+115,ice-body,"Ice Body","アイスボディ","Ice Body",4,15
+116,solid-rock,"Solid Rock","ハードロック","Hard Rock",4,6
+117,snow-warning,"Snow Warning","ゆきふらし",Snowfall,4,15
+118,honey-gather,"Honey Gather","みつあつめ","Honey Gather",4,7
+119,frisk,Frisk,"おみとおし","Unobstructed Sight",4,14
+120,reckless,Reckless,"すてみ",Life-Risking,4,2
+121,multitype,Multitype,"マルチタイプ",Multitype,4,17
+122,flower-gift,"Flower Gift","フラワーギフト","Flower Gift",4,12
+123,bad-dreams,"Bad Dreams","ナイトメア",Nightmare,4,17
+124,pickpocket,Pickpocket,"わるいてぐせ","Bad Habit",5,17
+125,sheer-force,"Sheer Force","ちからずく","Sheer Force",5,2
+126,contrary,Contrary,"あまのじゃく","Devil's Advocate",5,12
+127,unnerve,Unnerve,"きんちょうかん",Tension,5,7
+128,defiant,Defiant,"まけんき","Competitive Spirit",5,3
+129,defeatist,Defeatist,"よわき",Timid,5,6
+130,cursed-body,"Cursed Body","のろわれボディ","Cursed Body",5,8
+131,healer,Healer,"いやしのこころ","Healing Heart",5,1
+132,friend-guard,"Friend Guard","フレンドガード","Friend Guard",5,1
+133,weak-armor,"Weak Armor","くだけるよろい","Broken Armor",5,6
+134,heavy-metal,"Heavy Metal","ヘヴィメタル","Heavy Metal",5,9
+135,light-metal,"Light Metal","ライトメタル","Light Metal",5,9
+136,multiscale,Multiscale,"マルチスケイル",Multiscale,5,3
+137,toxic-boost,"Toxic Boost","どくぼうそう","Poison Rampage",5,1
+138,flare-boost,"Flare Boost","ねつぼうそう","Burn Rampage",5,8
+139,harvest,Harvest,"しゅうかく",Harvest,5,12
+140,telepathy,Telepathy,"テレパシー",Telepathy,5,14
+141,moody,Moody,"ムラっけ","Sudden Impulse",5,1
+142,overcoat,Overcoat,"ぼうじん","Dust Proof",5,7
+143,poison-touch,"Poison Touch","どくしゅ",Underhanded,5,4
+144,regenerator,Regenerator,"さいせいりょく",Regeneration,5,18
+145,big-pecks,"Big Pecks","はとむね","Pigeon Breast",5,20
+146,sand-rush,"Sand Rush","すなかき","Sand Paddle",5,5
+147,wonder-skin,"Wonder Skin","ミラクルスキン","Miracle Skin",5,14
+148,analytic,Analytic,"アナライズ",Analyze,5,1
+149,illusion,Illusion,"イリュージョン",Illusion,5,17
+150,imposter,Imposter,"かわりもの",Eccentric,5,1
+151,infiltrator,Infiltrator,"すりぬけ","Slip Through",5,3
+152,mummy,Mummy,"ミイラ",Mummy,5,8
+153,moxie,Moxie,"じしんかじょう",Overconfident,5,19
+154,justified,Justified,"せいぎのこころ","Righteous Heart",5,2
+155,rattled,Rattled,"びびり",Jitter,5,1
+156,magic-bounce,"Magic Bounce","マジックミラー","Magic Mirror",5,14
+157,sap-sipper,"Sap Sipper","そうしょく",Herbivorous,5,12
+158,prankster,Prankster,"いたずらごころ","Teasing Heart",5,17
+159,sand-force,"Sand Force","すなのちから","Sand Force",5,5
+160,iron-barbs,"Iron Barbs","てつのトゲ","Iron Thorns",5,9
+161,zen-mode,"Zen Mode","ダルマモード","Daruma Mode",5,10
+162,victory-star,"Victory Star","しょうりのほし","Victory Star",5,14
+163,turboblaze,Turboblaze,"ターボブレイズ",Turboblaze,5,10
+164,teravolt,Teravolt,"テラボルテージ",Teravoltage,5,13

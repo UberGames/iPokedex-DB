@@ -1,0 +1,8 @@
+id,damage_class_id,identifier
+1,"",hp
+2,2,attack
+3,2,defense
+4,3,special-attack
+5,3,special-defense
+6,"",speed
+7,"",total

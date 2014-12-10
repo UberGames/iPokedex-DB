@@ -1,0 +1,6 @@
+id,main_region_id,canonical_pokedex_id,identifier,name,name_jp
+1,1,2,generation-i,I,"一"
+2,2,7,generation-ii,II,"二"
+3,3,4,generation-iii,III,"三"
+4,4,6,generation-iv,IV,"四"
+5,5,8,generation-v,V,"五"

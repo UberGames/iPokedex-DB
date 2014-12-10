@@ -1,0 +1,560 @@
+id,identifier,name,name_jp,name_jp_tm,generation_id,type_id,power,pp,accuracy,priority,target_id,category_id,effect_id,effect_chance,contest_type_id,contest_effect_id,super_contest_effect_id
+1,pound,Pound,"はたく",Strike,1,1,40,35,100,0,10,2,1,"",5,1,5
+2,karate-chop,"Karate Chop","からてチョップ","Karate Chop",1,2,50,25,100,0,10,2,44,"",5,2,5
+3,doubleslap,DoubleSlap,"おうふくビンタ","Round Trip Slap",1,1,15,10,85,0,10,2,30,"",5,10,7
+4,comet-punch,"Comet Punch","れんぞくパンチ","Consecutive Punch",1,1,18,15,85,0,10,2,30,"",5,12,7
+5,mega-punch,"Mega Punch","メガトンパンチ","Megaton Punch",1,1,80,20,85,0,10,2,1,"",5,1,18
+6,pay-day,"Pay Day","ネコにこばん","Coin for a Cat",1,1,40,20,100,0,10,2,35,"",4,11,23
+7,fire-punch,"Fire Punch","ほのおのパンチ","Flame Punch",1,10,75,15,100,0,10,2,5,10,2,1,17
+8,ice-punch,"Ice Punch","れいとうパンチ","Freezing Punch",1,15,75,15,100,0,10,2,6,10,2,1,17
+9,thunderpunch,ThunderPunch,"かみなりパンチ","Thunder Punch",1,13,75,15,100,0,10,2,7,10,1,1,17
+10,scratch,Scratch,"ひっかく",Scratch,1,1,40,35,100,0,10,2,1,"",5,1,5
+11,vicegrip,ViceGrip,"はさむ",Clamp,1,1,55,30,100,0,10,2,1,"",5,1,5
+12,guillotine,Guillotine,"ハサミギロチン","Scissors Guillotine",1,1,1,5,30,0,10,2,39,"",1,14,9
+13,razor-wind,"Razor Wind","かまいたち",Kamaitachi,1,1,80,10,100,0,11,3,40,"",1,2,6
+14,swords-dance,"Swords Dance","つるぎのまい","Swords Dance",1,1,0,30,"",0,7,1,51,"",2,32,11
+15,cut,Cut,"いあいぎり","Iai Cut",1,1,50,30,95,0,10,2,1,"",1,14,5
+16,gust,Gust,"かぜおこし","Stir Up Wind",1,3,40,35,100,0,10,3,150,"",4,21,5
+17,wing-attack,"Wing Attack","つばさでうつ","Wing Strike",1,3,60,35,100,0,10,2,1,"",1,12,5
+18,whirlwind,Whirlwind,"ふきとばし","Blow Away",1,1,0,20,100,-6,10,1,29,"",4,21,9
+19,fly,Fly,"そらをとぶ",Fly,1,3,90,15,95,0,10,2,156,"",4,15,6
+20,bind,Bind,"しめつける",Bind,1,1,15,20,85,0,10,2,43,100,5,24,21
+21,slam,Slam,"たたきつける",Slam,1,1,80,20,75,0,10,2,1,"",5,23,5
+22,vine-whip,"Vine Whip","つるのムチ","Vine Whip",1,12,35,15,100,0,10,2,1,"",1,1,5
+23,stomp,Stomp,"ふみつけ",Trample,1,1,65,20,100,0,10,2,151,30,5,4,5
+24,double-kick,"Double Kick","にどげり","Double Kick",1,2,30,30,100,0,10,2,45,"",1,12,7
+25,mega-kick,"Mega Kick","メガトンキック","Megaton Kick",1,1,120,5,75,0,10,2,1,"",1,1,18
+26,jump-kick,"Jump Kick","とびげり",Dropkick,1,2,100,10,95,0,10,2,46,"",1,3,5
+27,rolling-kick,"Rolling Kick","まわしげり","Roundhouse Kick",1,2,60,15,85,0,10,2,32,30,1,5,5
+28,sand-attack,Sand-Attack,"すなかけ","Sand Attack",1,5,0,15,100,0,10,1,24,"",3,10,19
+29,headbutt,Headbutt,"ずつき",Headbutt,1,1,70,15,100,0,10,2,32,30,5,9,5
+30,horn-attack,"Horn Attack","つのでつく","Horn Thrust",1,1,65,25,100,0,10,2,1,"",1,1,5
+31,fury-attack,"Fury Attack","みだれづき","Disturbed Stab",1,1,15,20,85,0,10,2,30,"",1,10,7
+32,horn-drill,"Horn Drill","つのドリル","Horn Drill",1,1,1,5,30,0,10,2,39,"",1,14,9
+33,tackle,Tackle,"たいあたり","Body Blow",1,1,50,35,100,0,10,2,1,"",5,1,5
+34,body-slam,"Body Slam","のしかかり","Lean On",1,1,85,15,100,0,10,2,7,30,5,4,5
+35,wrap,Wrap,"まきつく","Wrap Around",1,1,15,20,90,0,10,2,43,100,5,24,21
+36,take-down,"Take Down","とっしん",Charge,1,1,90,20,85,0,10,2,49,"",5,3,5
+37,thrash,Thrash,"あばれる","Violent Struggle",1,1,120,10,100,0,8,2,28,"",5,6,7
+38,double-edge,Double-Edge,"すてみタックル","Life-Risking Tackle",1,1,120,15,100,0,10,2,199,"",5,3,9
+39,tail-whip,"Tail Whip","しっぽをふる","Tail Wag",1,1,0,30,100,0,11,1,20,"",3,28,19
+40,poison-sting,"Poison Sting","どくばり","Poison Needle",1,4,15,35,100,0,10,2,3,30,4,9,19
+41,twineedle,Twineedle,"ダブルニードル","Double Needle",1,7,25,20,100,0,10,2,78,20,1,9,7
+42,pin-missile,"Pin Missile","ミサイルばり","Missile Needle",1,7,14,20,85,0,10,2,30,"",1,10,7
+43,leer,Leer,"にらみつける",Glare,1,1,0,30,100,0,11,1,20,"",1,24,19
+44,bite,Bite,"かみつく",Bite,1,17,60,25,100,0,10,2,32,30,5,5,5
+45,growl,Growl,"なきごえ",Cry,1,1,0,40,100,0,11,1,19,"",3,28,19
+46,roar,Roar,"ほえる",Roar,1,1,0,20,100,-6,10,1,29,"",1,21,19
+47,sing,Sing,"うたう",Sing,1,1,0,15,55,0,10,1,2,"",3,18,19
+48,supersonic,Supersonic,"ちょうおんぱ",Soundwave,1,1,0,20,55,0,10,1,50,"",4,21,19
+49,sonicboom,SonicBoom,"ソニックブーム","Sonic Boom",1,1,1,20,90,0,10,3,131,"",1,12,5
+50,disable,Disable,"かなしばり","Temporary Binding",1,1,0,20,100,0,10,1,87,"",4,18,19
+51,acid,Acid,"ようかいえき","Corrosive Liquid",1,4,40,30,100,0,11,3,73,10,4,4,5
+52,ember,Ember,"ひのこ",Sparks,1,10,40,25,100,0,10,3,5,10,2,1,5
+53,flamethrower,Flamethrower,"かえんほうしゃ","Flame Emission",1,10,95,15,100,0,10,3,5,10,2,1,17
+54,mist,Mist,"しろいきり","White Mist",1,15,0,30,"",0,4,1,47,"",2,15,13
+55,water-gun,"Water Gun","みずでっぽう","Water Gun",1,11,40,25,100,0,10,3,1,"",3,1,5
+56,hydro-pump,"Hydro Pump","ハイドロポンプ","Hydro Pump",1,11,120,5,80,0,10,3,1,"",2,1,17
+57,surf,Surf,"なみのり",Surfing,1,11,95,15,100,0,9,3,258,"",2,2,17
+58,ice-beam,"Ice Beam","れいとうビーム","Freezing Beam",1,15,95,10,100,0,10,3,6,10,2,23,17
+59,blizzard,Blizzard,"ふぶき",Snowstorm,1,15,120,5,70,0,11,3,261,10,2,1,17
+60,psybeam,Psybeam,"サイケこうせん",Psyche-beam,1,14,65,20,100,0,10,3,77,10,2,21,17
+61,bubblebeam,BubbleBeam,"バブルこうせん","Bubble Beam",1,11,65,20,100,0,10,3,71,10,2,5,2
+62,aurora-beam,"Aurora Beam","オーロラビーム","Aurora Beam",1,15,65,20,100,0,10,3,69,10,2,23,17
+63,hyper-beam,"Hyper Beam","はかいこうせん","Destruction Beam",1,1,150,5,90,0,10,3,81,"",1,6,22
+64,peck,Peck,"つつく",Peck,1,3,35,35,100,0,10,2,1,"",1,1,5
+65,drill-peck,"Drill Peck","ドリルくちばし","Drill Beak",1,3,80,20,100,0,10,2,1,"",1,1,5
+66,submission,Submission,"じごくぐるま","Hell Wheel",1,2,80,25,80,0,10,2,49,"",1,3,5
+67,low-kick,"Low Kick","けたぐり","Kick Down",1,2,1,20,100,0,10,2,197,"",5,4,5
+68,counter,Counter,"カウンター",Counter,1,2,1,20,100,-5,1,2,90,"",5,16,15
+69,seismic-toss,"Seismic Toss","ちきゅうなげ","Earth Throw",1,2,1,20,100,0,10,2,88,"",5,23,5
+70,strength,Strength,"かいりき","Super Strength",1,1,80,15,100,0,10,2,1,"",5,23,5
+71,absorb,Absorb,"すいとる",Absorb,1,12,20,25,100,0,10,3,4,"",4,9,20
+72,mega-drain,"Mega Drain","メガドレイン","Mega Drain",1,12,40,15,100,0,10,3,4,"",4,4,20
+73,leech-seed,"Leech Seed","やどりぎのタネ","Mistletoe Seed",1,12,0,10,90,0,10,1,85,"",4,8,21
+74,growth,Growth,"せいちょう",Growth,1,1,0,40,"",0,7,1,317,"",2,32,11
+75,razor-leaf,"Razor Leaf","はっぱカッター","Leaf Cutter",1,12,55,25,95,0,11,2,44,"",1,2,5
+76,solarbeam,SolarBeam,"ソーラービーム",SolarBeam,1,12,120,10,100,0,10,3,152,"",1,1,6
+77,poisonpowder,PoisonPowder,"どくのこな",PoisonPowder,1,4,0,35,75,0,10,1,67,"",4,33,19
+78,stun-spore,"Stun Spore","しびれごな","Numbing Powder",1,12,0,30,75,0,10,1,68,"",4,14,19
+79,sleep-powder,"Sleep Powder","ねむりごな","Sleep Powder",1,12,0,15,75,0,10,1,2,"",4,5,19
+80,petal-dance,"Petal Dance","はなびらのまい","Petal Dance",1,12,120,10,100,0,8,3,28,"",2,6,21
+81,string-shot,"String Shot","いとをはく","Spit Thread",1,7,0,40,95,0,11,1,21,"",4,9,19
+82,dragon-rage,"Dragon Rage","りゅうのいかり","Dragon Rage",1,16,1,10,100,0,10,3,42,"",1,26,5
+83,fire-spin,"Fire Spin","ほのおのうず","Flame Swirl",1,10,35,15,85,0,10,3,43,100,2,24,21
+84,thundershock,ThunderShock,"でんきショック","Electric Shock",1,13,40,30,100,0,10,3,7,10,1,1,5
+85,thunderbolt,Thunderbolt,"１０まんボルト","100,000 Volts",1,13,95,15,100,0,10,3,7,10,1,1,17
+86,thunder-wave,"Thunder Wave","でんじは","Electromagnetic Wave",1,13,0,20,100,0,10,1,68,"",1,14,19
+87,thunder,Thunder,"かみなり",Thunder,1,13,120,10,70,0,10,3,153,30,1,8,17
+88,rock-throw,"Rock Throw","いわおとし","Rock Drop",1,6,50,15,90,0,10,2,1,"",5,12,5
+89,earthquake,Earthquake,"じしん",Earthquake,1,5,100,10,100,0,9,2,148,"",5,5,18
+90,fissure,Fissure,"じわれ",Fissure,1,5,1,5,30,0,10,2,39,"",5,14,9
+91,dig,Dig,"あなをほる","Dig Hole",1,5,80,10,100,0,10,2,257,"",4,15,6
+92,toxic,Toxic,"どくどく","Excessive Poison",1,4,0,10,90,0,10,1,34,"",4,33,19
+93,confusion,Confusion,"ねんりき",Psychokinesis,1,14,50,25,100,0,10,3,77,10,4,9,5
+94,psychic,Psychic,"サイコキネシス",Psychokinesis,1,14,90,10,100,0,10,3,73,10,4,5,17
+95,hypnosis,Hypnosis,"さいみんじゅつ",Hypnosis,1,14,0,20,60,0,10,1,2,"",4,5,19
+96,meditate,Meditate,"ヨガのポーズ","Yoga Pose",1,14,0,40,"",0,7,1,11,"",2,32,11
+97,agility,Agility,"こうそくいどう","High-speed Movement",1,14,0,30,"",0,7,1,53,"",1,30,1
+98,quick-attack,"Quick Attack","でんこうせっか","Lightning Speed",1,1,40,30,100,1,10,2,104,"",1,30,1
+99,rage,Rage,"いかり",Rage,1,1,20,20,100,0,10,2,82,"",1,17,11
+100,teleport,Teleport,"テレポート",Teleport,1,14,0,20,"",0,7,1,154,"",1,15,1
+101,night-shade,"Night Shade","ナイトヘッド","Night Head",1,8,1,15,100,0,10,3,88,"",4,23,5
+102,mimic,Mimic,"ものまね",Mimic,1,1,0,10,"",0,10,1,83,"",3,19,12
+103,screech,Screech,"いやなおと","Unpleasant Tone",1,1,0,40,85,0,10,1,60,"",4,5,10
+104,double-team,"Double Team","かげぶんしん","Shadow Divide",1,1,0,15,"",0,7,1,17,"",1,16,1
+105,recover,Recover,"じこさいせい",Self-regeneration,1,1,0,10,"",0,7,1,33,"",4,23,8
+106,harden,Harden,"かたくなる",Stiffen,1,1,0,30,"",0,7,1,12,"",5,16,13
+107,minimize,Minimize,"ちいさくなる",Shrink,1,1,0,20,"",0,7,1,109,"",3,16,13
+108,smokescreen,SmokeScreen,"えんまく",Smokescreen,1,1,0,20,100,0,10,1,24,"",4,21,10
+109,confuse-ray,"Confuse Ray","あやしいひかり","Bewitching Light",1,8,0,10,100,0,10,1,50,"",4,21,10
+110,withdraw,Withdraw,"からにこもる","Withdraw into Shell",1,11,0,40,"",0,7,1,12,"",3,15,13
+111,defense-curl,"Defense Curl","まるくなる","Curl Up",1,1,0,40,"",0,7,1,157,"",3,16,13
+112,barrier,Barrier,"バリアー",Barrier,1,14,0,30,"",0,7,1,52,"",1,15,13
+113,light-screen,"Light Screen","ひかりのかべ","Light Wall",1,14,0,30,"",0,4,1,36,"",2,15,13
+114,haze,Haze,"くろいきり","Black Mist",1,15,0,30,"",0,12,1,26,"",2,33,13
+115,reflect,Reflect,"リフレクター",Reflector,1,14,0,20,"",0,4,1,66,"",4,15,13
+116,focus-energy,"Focus Energy","きあいだめ","Fighting Spirit Improvement",1,1,0,30,"",0,7,1,48,"",1,5,11
+117,bide,Bide,"がまん",Perserverance,1,1,1,10,"",1,7,2,27,"",5,15,15
+118,metronome,Metronome,"ゆびをふる","Wag Finger",1,1,0,10,"",0,7,1,84,"",3,17,14
+119,mirror-move,"Mirror Move","オウムがえし","Parrot Mimicry",1,3,0,20,"",0,10,1,10,"",4,19,15
+120,selfdestruct,Selfdestruct,"じばく","Suicide Bombing",1,1,200,5,100,0,9,2,8,"",2,7,9
+121,egg-bomb,"Egg Bomb","タマゴばくだん","Egg Bomb",1,1,100,10,75,0,10,2,1,"",5,1,5
+122,lick,Lick,"したでなめる","Tongue Lick",1,8,20,30,100,0,10,2,7,30,5,4,16
+123,smog,Smog,"スモッグ",Smog,1,4,20,20,70,0,10,3,3,40,5,5,5
+124,sludge,Sludge,"ヘドロこうげき","Sludge Stream",1,4,65,20,100,0,10,3,3,30,5,4,18
+125,bone-club,"Bone Club","ホネこんぼう","Bone Club",1,5,65,20,85,0,10,2,32,10,5,10,5
+126,fire-blast,"Fire Blast","だいもんじ",Daimonji,1,10,120,5,85,0,10,3,5,10,2,1,17
+127,waterfall,Waterfall,"たきのぼり","Waterfall Climb",1,11,80,15,100,0,10,2,32,20,5,28,5
+128,clamp,Clamp,"からではさむ","Clamp with Shell",1,11,35,10,85,0,10,2,43,100,5,24,5
+129,swift,Swift,"スピードスター","Speed Star",1,1,60,20,"",0,11,3,18,"",1,27,17
+130,skull-bash,"Skull Bash","ロケットずつき","Rocket Headbutt",1,1,100,15,100,0,10,2,146,100,5,4,6
+131,spike-cannon,"Spike Cannon","とげキャノン","Spike Cannon",1,1,20,15,100,0,10,2,30,"",1,10,7
+132,constrict,Constrict,"からみつく","Coil Around",1,1,10,35,100,0,10,2,71,10,5,9,21
+133,amnesia,Amnesia,"ドわすれ","Memory Lapse",1,14,0,20,"",0,7,1,55,"",3,32,11
+134,kinesis,Kinesis,"スプーンまげ","Spoon Bend",1,14,0,15,80,0,10,1,24,"",4,24,11
+135,softboiled,Softboiled,"タマゴうみ","Egg Lay",1,1,0,10,"",0,7,1,33,"",2,1,8
+136,hi-jump-kick,"Hi Jump Kick","とびひざげり","Jumping Knee Kick",1,2,130,10,90,0,10,2,46,"",1,3,5
+137,glare,Glare,"へびにらみ","Snake Glare",1,1,0,30,90,0,10,1,68,"",5,5,19
+138,dream-eater,"Dream Eater","ゆめくい","Dream Eat",1,14,100,15,100,0,10,3,9,"",4,8,20
+139,poison-gas,"Poison Gas","どくガス","Poison Gas",1,4,0,40,90,0,11,1,67,"",4,33,5
+140,barrage,Barrage,"たまなげ","Ball Throw",1,1,15,20,85,0,10,2,30,"",5,12,7
+141,leech-life,"Leech Life","きゅうけつ","Suck Blood",1,7,20,15,100,0,10,2,4,"",4,9,20
+142,lovely-kiss,"Lovely Kiss","あくまのキッス","Demon's Kiss",1,1,0,10,75,0,10,1,2,"",2,5,19
+143,sky-attack,"Sky Attack","ゴッドバード","God Bird",1,3,140,5,90,0,10,2,76,30,1,2,6
+144,transform,Transform,"へんしん",Transform,1,1,0,10,"",0,10,1,58,"",4,17,23
+145,bubble,Bubble,"あわ",Bubble,1,11,20,30,100,0,11,3,71,10,3,8,2
+146,dizzy-punch,"Dizzy Punch","ピヨピヨパンチ","Chirp Chirp Punch",1,1,70,10,100,0,10,2,77,20,1,4,16
+147,spore,Spore,"キノコのほうし","Mushroom Spore",1,12,0,15,100,0,10,1,2,"",2,5,10
+148,flash,Flash,"フラッシュ",Flash,1,1,0,20,100,0,10,1,24,"",2,21,10
+149,psywave,Psywave,"サイコウェーブ",Psychowave,1,14,1,15,80,0,10,3,89,"",4,14,5
+150,splash,Splash,"はねる",Hop,1,1,0,40,"",0,7,1,86,"",3,28,16
+151,acid-armor,"Acid Armor","とける",Liquefy,1,4,0,40,"",0,7,1,52,"",5,32,11
+152,crabhammer,Crabhammer,"クラブハンマー","Crab Hammer",1,11,90,10,90,0,10,2,44,"",5,2,18
+153,explosion,Explosion,"だいばくはつ","Giant Explosion",1,1,250,5,100,0,9,2,8,"",2,7,9
+154,fury-swipes,"Fury Swipes","みだれひっかき","Disturbed Scratch",1,1,18,15,80,0,10,2,30,"",5,10,7
+155,bonemerang,Bonemerang,"ホネブーメラン","Bone Boomerang",1,5,50,10,90,0,10,2,45,"",5,1,7
+156,rest,Rest,"ねむる",Sleep,1,14,0,10,"",0,7,1,38,"",3,16,8
+157,rock-slide,"Rock Slide","いわなだれ","Rock Slide",1,6,75,10,90,0,11,2,32,30,5,5,5
+158,hyper-fang,"Hyper Fang","ひっさつまえば","Certain-kill Fang",1,1,80,15,90,0,10,2,32,10,1,4,18
+159,sharpen,Sharpen,"かくばる","Improve Angles",1,1,0,30,"",0,7,1,11,"",3,32,11
+160,conversion,Conversion,"テクスチャー",Texture,1,1,0,30,"",0,7,1,31,"",2,12,23
+161,tri-attack,"Tri Attack","トライアタック","Tri Attack",1,1,80,10,100,0,10,3,37,20,2,8,5
+162,super-fang,"Super Fang","いかりのまえば","Hatred Fang",1,1,1,10,90,0,10,2,41,"",5,14,5
+163,slash,Slash,"きりさく","Tear into Pieces",1,1,70,20,100,0,10,2,44,"",1,2,5
+164,substitute,Substitute,"みがわり",Scapegoat,1,1,0,10,"",0,7,1,80,"",4,16,23
+165,struggle,Struggle,"わるあがき","Vain Struggle",1,1,50,"","",0,10,2,255,"",1,1,5
+166,sketch,Sketch,"スケッチ",Sketch,2,1,0,1,"",0,10,1,96,"",4,19,23
+167,triple-kick,"Triple Kick","トリプルキック","Triple Kick",2,2,10,10,90,0,10,2,105,"",1,1,7
+168,thief,Thief,"どろぼう",Thief,2,17,40,10,100,0,10,2,106,"",5,20,12
+169,spider-web,"Spider Web","クモのす","Spider's Web",2,7,0,10,"",0,10,1,107,"",4,18,13
+170,mind-reader,"Mind Reader","こころのめ","Heart's Eye",2,1,0,5,"",0,10,1,95,"",4,24,20
+171,nightmare,Nightmare,"あくむ",Nightmare,2,8,0,15,100,0,10,1,108,"",4,5,19
+172,flame-wheel,"Flame Wheel","かえんぐるま","Flame Wheel",2,10,60,25,100,0,10,2,126,10,2,1,7
+173,snore,Snore,"いびき",Snore,2,1,40,15,100,0,10,3,93,30,3,1,5
+174,curse,Curse,"のろい",Noroi,2,8,0,10,"",0,1,1,110,"",5,31,21
+175,flail,Flail,"じたばた",Wriggling,2,1,1,15,100,0,10,2,100,"",3,26,15
+176,conversion-2,"Conversion 2","テクスチャー２","Texture 2",2,1,0,30,"",0,10,1,94,"",2,12,23
+177,aeroblast,Aeroblast,"エアロブラスト",Aeroblast,2,3,100,5,95,0,10,3,44,"",1,2,22
+178,cotton-spore,"Cotton Spore","わたほうし","Cotton Spore",2,12,0,40,100,0,10,1,61,"",2,10,1
+179,reversal,Reversal,"きしかいせい",Reversal,2,2,1,15,100,0,10,2,100,"",1,28,15
+180,spite,Spite,"うらみ",Spite,2,8,0,10,100,0,10,1,101,"",5,28,19
+181,powder-snow,"Powder Snow","こなゆき","Powder Snow",2,15,40,25,100,0,11,3,6,10,2,1,5
+182,protect,Protect,"まもる",Protect,2,1,0,10,"",4,7,1,112,"",3,15,16
+183,mach-punch,"Mach Punch","マッハパンチ","Mach Punch",2,2,40,30,100,1,10,2,104,"",1,30,1
+184,scary-face,"Scary Face","こわいかお","Scary Face",2,1,0,10,90,0,10,1,61,"",5,10,2
+185,faint-attack,"Faint Attack","だましうち","Sneak Attack",2,17,60,20,"",0,10,2,18,"",4,27,18
+186,sweet-kiss,"Sweet Kiss","てんしのキッス","Angel's Kiss",2,1,0,10,75,0,10,1,50,"",3,18,19
+187,belly-drum,"Belly Drum","はらだいこ","Belly Drum",2,1,0,10,"",0,7,1,143,"",3,32,11
+188,sludge-bomb,"Sludge Bomb","ヘドロばくだん","Sludge Bomb",2,4,90,10,100,0,10,3,3,30,5,10,18
+189,mud-slap,Mud-Slap,"どろかけ","Mud Spray",2,5,20,10,100,0,10,3,74,100,3,10,5
+190,octazooka,Octazooka,"オクタンほう","Okutank Cannon",2,11,65,10,85,0,10,3,74,50,5,10,4
+191,spikes,Spikes,"まきびし",Caltrop,2,5,0,20,"",0,6,1,113,"",4,18,13
+192,zap-cannon,"Zap Cannon","でんじほう","Electromagnetic Cannon",2,13,120,5,50,0,10,3,7,100,1,1,4
+193,foresight,Foresight,"みやぶる","Thought Read",2,1,0,40,"",0,10,1,114,"",4,33,20
+194,destiny-bond,"Destiny Bond","みちづれ","Fellow Travelers",2,8,0,5,"",0,7,1,99,"",4,7,9
+195,perish-song,"Perish Song","ほろびのうた","Perish Song",2,1,0,5,"",0,12,1,115,"",2,14,10
+196,icy-wind,"Icy Wind","こごえるかぜ","Chilling Wind",2,15,55,15,95,0,11,3,71,100,2,5,2
+197,detect,Detect,"みきり",All-Seeing,2,2,0,5,"",4,7,1,112,"",1,16,16
+198,bone-rush,"Bone Rush","ボーンラッシュ","Bone Rush",2,5,25,10,80,0,10,2,30,"",5,1,7
+199,lock-on,Lock-On,"ロックオン",Lock-On,2,1,0,5,"",0,10,1,95,"",4,24,20
+200,outrage,Outrage,"げきりん","Imperial Rage",2,16,120,15,100,0,8,2,28,"",1,6,7
+201,sandstorm,Sandstorm,"すなあらし",Sandstorm,2,6,0,10,"",0,12,1,116,"",5,21,13
+202,giga-drain,"Giga Drain","ギガドレイン","Giga Drain",2,12,75,10,100,0,10,3,4,"",4,10,20
+203,endure,Endure,"こらえる",Endure,2,1,0,10,"",4,7,1,117,"",5,16,13
+204,charm,Charm,"あまえる","Spoiled Pout",2,1,0,20,100,0,10,1,59,"",3,23,19
+205,rollout,Rollout,"ころがる",Roll,2,6,30,20,90,0,10,2,118,"",5,24,7
+206,false-swipe,"False Swipe","みねうち","Blunt Strike",2,1,40,40,100,0,10,2,102,"",1,5,16
+207,swagger,Swagger,"いばる",Swagger,2,1,0,15,90,0,10,1,119,"",3,27,19
+208,milk-drink,"Milk Drink","ミルクのみ","Milk Drink",2,1,0,10,"",0,7,1,33,"",3,12,8
+209,spark,Spark,"スパーク",Spark,2,13,65,20,100,0,10,2,7,30,1,4,5
+210,fury-cutter,"Fury Cutter","れんぞくぎり","Consecutive Cut",2,7,20,20,95,0,10,2,120,"",1,17,7
+211,steel-wing,"Steel Wing","はがねのつばさ","Steel Wing",2,9,70,25,90,0,10,2,139,10,1,12,5
+212,mean-look,"Mean Look","くろいまなざし","Dark Look",2,1,0,5,"",0,10,1,107,"",2,18,10
+213,attract,Attract,"メロメロ",Attract,2,1,0,15,100,0,10,1,121,"",3,18,19
+214,sleep-talk,"Sleep Talk","ねごと","Sleep Talk",2,1,0,10,"",0,7,1,98,"",3,17,5
+215,heal-bell,"Heal Bell","いやしのすず","Heal Bell",2,1,0,5,"",0,4,1,103,"",2,28,8
+216,return,Return,"おんがえし","Return Favor",2,1,1,20,100,0,10,2,122,"",3,13,17
+217,present,Present,"プレゼント",Present,2,1,1,15,90,0,10,2,123,"",3,17,16
+218,frustration,Frustration,"やつあたり","Angry Outburst",2,1,1,20,100,0,10,2,124,"",3,13,18
+219,safeguard,Safeguard,"しんぴのまもり","Mysterious Safeguard",2,1,0,25,"",0,4,1,125,"",2,15,13
+220,pain-split,"Pain Split","いたみわけ","Pain Split",2,1,0,20,"",0,10,1,92,"",4,4,10
+221,sacred-fire,"Sacred Fire","せいなるほのお","Sacred Fire",2,10,100,5,95,0,10,2,126,50,2,1,22
+222,magnitude,Magnitude,"マグニチュード",Magnitude,2,5,1,30,100,0,9,2,127,"",5,11,18
+223,dynamicpunch,DynamicPunch,"ばくれつパンチ","Exploding Punch",2,2,100,5,50,0,10,2,77,100,1,10,18
+224,megahorn,Megahorn,"メガホーン",Megahorn,2,7,120,10,85,0,10,2,1,"",1,12,18
+225,dragonbreath,DragonBreath,"りゅうのいぶき","Dragon Breath",2,16,60,20,100,0,10,3,7,30,1,5,17
+226,baton-pass,"Baton Pass","バトンタッチ","Baton Touch",2,1,0,40,"",0,7,1,128,"",3,18,16
+227,encore,Encore,"アンコール",Encore,2,1,0,5,100,0,10,1,91,"",3,18,20
+228,pursuit,Pursuit,"おいうち","Pursuing Attack",2,17,40,20,100,0,10,2,129,"",4,14,20
+229,rapid-spin,"Rapid Spin","こうそくスピン","Rapid Spin",2,1,20,40,100,0,10,2,130,"",1,16,17
+230,sweet-scent,"Sweet Scent","あまいかおり","Sweet Scent",2,1,0,20,100,0,11,1,25,"",3,5,19
+231,iron-tail,"Iron Tail","アイアンテール","Iron Tail",2,9,100,15,75,0,10,2,70,30,1,4,18
+232,metal-claw,"Metal Claw","メタルクロー","Metal Claw",2,9,50,35,95,0,10,2,140,10,1,1,18
+233,vital-throw,"Vital Throw","あてみなげ","Strike Throw",2,2,70,10,"",-1,10,2,79,"",1,31,2
+234,morning-sun,"Morning Sun","あさのひざし","Morning Sunlight",2,1,0,5,"",0,7,1,133,"",2,25,8
+235,synthesis,Synthesis,"こうごうせい",Photosynthesis,2,12,0,5,"",0,7,1,133,"",4,25,8
+236,moonlight,Moonlight,"つきのひかり",Moonlight,2,1,0,5,"",0,7,1,133,"",2,25,8
+237,hidden-power,"Hidden Power","めざめるパワー","Awakening Power",2,1,1,15,100,0,10,3,136,"",4,17,23
+238,cross-chop,"Cross Chop","クロスチョップ","Cross Chop",2,2,100,5,80,0,10,2,44,"",1,2,18
+239,twister,Twister,"たつまき",Twister,2,16,40,20,100,0,11,3,147,20,1,21,5
+240,rain-dance,"Rain Dance","あまごい","Rain Prayer",2,11,0,5,"",0,12,1,137,"",5,11,13
+241,sunny-day,"Sunny Day","にほんばれ","Clear Sky",2,10,0,5,"",0,12,1,138,"",2,11,13
+242,crunch,Crunch,"かみくだく",Crunch,2,17,80,15,100,0,10,2,70,20,5,4,18
+243,mirror-coat,"Mirror Coat","ミラーコート","Mirror Coat",2,14,1,20,100,-5,1,3,145,"",2,16,15
+244,psych-up,"Psych Up","じこあんじ",Self-suggest,2,1,0,10,"",0,10,1,144,"",4,12,11
+245,extremespeed,ExtremeSpeed,"しんそく",Godspeed,2,1,80,5,100,2,10,2,104,"",1,30,1
+246,ancientpower,AncientPower,"げんしのちから","Primeval Power",2,6,60,5,100,0,10,3,141,10,5,32,18
+247,shadow-ball,"Shadow Ball","シャドーボール","Shadow Ball",2,8,80,15,100,0,10,3,73,20,4,21,17
+248,future-sight,"Future Sight","みらいよち","Future Sight",2,14,100,10,100,0,10,3,149,"",4,24,17
+249,rock-smash,"Rock Smash","いわくだき","Rock Smash",2,2,40,15,100,0,10,2,70,50,5,29,18
+250,whirlpool,Whirlpool,"うずしお","Whirl Tide",2,11,35,15,85,0,10,3,262,100,2,24,21
+251,beat-up,"Beat Up","ふくろだたき","Gang Up",2,17,1,10,100,0,10,2,155,"",4,14,7
+252,fake-out,"Fake Out","ねこだまし","Slap Hands",3,1,40,10,100,3,10,2,159,100,3,23,17
+253,uproar,Uproar,"さわぐ",Clamor,3,1,90,10,100,0,8,3,160,"",3,21,10
+254,stockpile,Stockpile,"たくわえる",Stockpile,3,1,0,20,"",0,7,1,161,"",5,16,11
+255,spit-up,"Spit Up","はきだす","Spit Up",3,1,1,10,100,0,10,3,162,"",5,1,18
+256,swallow,Swallow,"のみこむ",Swallow,3,1,0,10,"",0,7,1,163,"",5,32,8
+257,heat-wave,"Heat Wave","ねっぷう","Hot Wind",3,10,100,10,90,0,11,3,5,10,2,1,17
+258,hail,Hail,"あられ",Hail,3,15,0,10,"",0,12,1,165,"",2,5,13
+259,torment,Torment,"いちゃもん","Falsely Accuse",3,17,0,15,100,0,10,1,166,"",5,18,16
+260,flatter,Flatter,"おだてる",Flatter,3,17,0,15,100,0,10,1,167,"",4,18,19
+261,will-o-wisp,Will-O-Wisp,"おにび",Will-O-Wisp,3,10,0,15,75,0,10,1,168,"",2,4,17
+262,memento,Memento,"おきみやげ",Memento,3,17,0,10,100,0,10,1,169,"",5,7,9
+263,facade,Facade,"からげんき",Bravado,3,1,70,20,100,0,10,2,170,"",3,28,15
+264,focus-punch,"Focus Punch","きあいパンチ","Fighting Spirit Punch",3,2,150,20,100,-3,10,2,171,"",5,31,6
+265,smellingsalt,SmellingSalt,"きつけ",Resuscitation,3,1,60,10,100,0,10,2,172,"",4,9,16
+266,follow-me,"Follow Me","このゆびとまれ","Stay With This Finger",3,1,0,20,"",3,7,1,173,"",3,24,14
+267,nature-power,"Nature Power","しぜんのちから","Nature Power",3,1,0,20,"",0,1,1,174,"",2,11,14
+268,charge,Charge,"じゅうでん",Charge,3,13,0,20,"",0,7,1,175,"",4,12,11
+269,taunt,Taunt,"ちょうはつ",Taunt,3,17,0,20,100,0,10,1,176,"",4,18,16
+270,helping-hand,"Helping Hand","てだすけ",Help,3,1,0,20,"",5,3,1,177,"",4,18,20
+271,trick,Trick,"トリック",Trick,3,14,0,10,100,0,10,1,178,"",4,12,12
+272,role-play,"Role Play","なりきり","Change Appearance",3,14,0,10,"",0,10,1,179,"",3,20,23
+273,wish,Wish,"ねがいごと",Wish,3,1,0,10,"",0,7,1,180,"",3,24,8
+274,assist,Assist,"ねこのて","Cat's Paw",3,1,0,20,"",0,7,1,181,"",3,25,14
+275,ingrain,Ingrain,"ねをはる","Extend Roots",3,12,0,20,"",0,7,1,182,"",4,15,21
+276,superpower,Superpower,"ばかぢから","Great Power",3,2,120,5,100,0,10,2,183,100,5,3,18
+277,magic-coat,"Magic Coat","マジックコート","Magic Coat",3,14,0,15,"",4,7,1,184,"",2,15,15
+278,recycle,Recycle,"リサイクル",Recycle,3,1,0,10,"",0,7,1,185,"",4,17,12
+279,revenge,Revenge,"リベンジ",Revenge,3,2,60,10,100,-4,10,2,186,"",5,31,15
+280,brick-break,"Brick Break","かわらわり","Tile Break",3,2,75,15,100,0,10,2,187,"",1,4,5
+281,yawn,Yawn,"あくび",Yawn,3,1,0,10,"",0,10,1,188,"",3,18,19
+282,knock-off,"Knock Off","はたきおとす","Knock Off",3,17,20,20,100,0,10,2,189,"",4,4,5
+283,endeavor,Endeavor,"がむしゃら",Daredevil,3,1,1,5,100,0,10,2,190,"",5,28,15
+284,eruption,Eruption,"ふんか",Eruption,3,10,150,5,100,0,11,3,191,"",2,26,18
+285,skill-swap,"Skill Swap","スキルスワップ","Skill Swap",3,14,0,10,"",0,10,1,192,"",4,20,12
+286,imprison,Imprison,"ふういん",Seal,3,14,0,10,"",0,7,1,193,"",4,33,20
+287,refresh,Refresh,"リフレッシュ",Refresh,3,1,0,20,"",0,7,1,194,"",3,32,8
+288,grudge,Grudge,"おんねん",Grudge,3,8,0,5,"",0,7,1,195,"",5,26,10
+289,snatch,Snatch,"よこどり",Snatch,3,17,0,10,"",4,7,1,196,"",4,14,12
+290,secret-power,"Secret Power","ひみつのちから","Secret Power",3,1,70,20,100,0,10,2,198,30,4,29,14
+291,dive,Dive,"ダイビング",Diving,3,11,80,10,100,0,10,2,256,"",2,16,6
+292,arm-thrust,"Arm Thrust","つっぱり",Thrust,3,2,15,20,100,0,10,2,30,"",5,10,7
+293,camouflage,Camouflage,"ほごしょく",Camouflage,3,1,0,20,"",0,7,1,214,"",4,2,13
+294,tail-glow,"Tail Glow","ほたるび","Firefly Light",3,7,0,20,"",0,7,1,322,"",2,32,11
+295,luster-purge,"Luster Purge","ラスターパージ","Luster Purge",3,14,70,5,100,0,10,3,73,50,4,9,22
+296,mist-ball,"Mist Ball","ミストボール","Mist Ball",3,14,70,5,100,0,10,3,72,50,4,4,22
+297,featherdance,FeatherDance,"フェザーダンス",FeatherDance,3,3,0,15,100,0,10,1,59,"",2,28,19
+298,teeter-dance,"Teeter Dance","フラフラダンス","Dizzy Dance",3,1,0,20,100,0,9,1,200,"",3,6,14
+299,blaze-kick,"Blaze Kick","ブレイズキック","Blaze Kick",3,10,85,10,90,0,10,2,201,10,2,1,17
+300,mud-sport,"Mud Sport","どろあそび","Mud Game",3,5,0,15,"",0,12,1,202,"",3,1,13
+301,ice-ball,"Ice Ball","アイスボール","Ice Ball",3,15,30,20,90,0,10,2,118,"",2,24,7
+302,needle-arm,"Needle Arm","ニードルアーム","Needle Arm",3,12,60,15,100,0,10,2,32,30,4,4,5
+303,slack-off,"Slack Off","なまける","Slack Off",3,1,0,10,"",0,7,1,33,"",3,26,8
+304,hyper-voice,"Hyper Voice","ハイパーボイス","Hyper Voice",3,1,90,10,100,0,11,3,1,"",1,5,5
+305,poison-fang,"Poison Fang","どくどくのキバ","Excessive Poison Fang",3,4,50,15,100,0,10,2,203,30,4,33,4
+306,crush-claw,"Crush Claw","ブレイククロー","Break Claw",3,1,75,10,95,0,10,2,70,50,1,4,5
+307,blast-burn,"Blast Burn","ブラストバーン","Blast Burn",3,10,150,5,90,0,10,3,81,"",2,6,22
+308,hydro-cannon,"Hydro Cannon","ハイドロカノン","Hydro Cannon",3,11,150,5,90,0,10,3,81,"",2,6,22
+309,meteor-mash,"Meteor Mash","コメットパンチ","Comet Punch",3,9,100,10,85,0,10,2,140,20,1,12,18
+310,astonish,Astonish,"おどろかす",Astonish,3,8,30,15,100,0,10,2,32,30,4,9,5
+311,weather-ball,"Weather Ball","ウェザーボール","Weather Ball",3,1,50,10,100,0,10,3,204,"",4,1,4
+312,aromatherapy,Aromatherapy,"アロマセラピー",Aromatherapy,3,12,0,5,"",0,4,1,103,"",4,28,8
+313,fake-tears,"Fake Tears","うそなき","Fake Crying",3,17,0,20,100,0,10,1,63,"",4,28,19
+314,air-cutter,"Air Cutter","エアカッター","Air Cutter",3,3,55,25,95,0,11,3,44,"",1,23,5
+315,overheat,Overheat,"オーバーヒート",Overheat,3,10,140,5,90,0,10,3,205,100,2,3,22
+316,odor-sleuth,"Odor Sleuth","かぎわける","Find Scent",3,1,0,40,"",0,10,1,114,"",4,33,20
+317,rock-tomb,"Rock Tomb","がんせきふうじ","Rock Trap",3,6,50,10,80,0,10,2,71,100,4,24,2
+318,silver-wind,"Silver Wind","ぎんいろのかぜ","Silver Wind",3,7,60,5,100,0,10,3,141,10,2,32,4
+319,metal-sound,"Metal Sound","きんぞくおん","Metal Sound",3,9,0,40,85,0,10,1,63,"",4,5,10
+320,grasswhistle,GrassWhistle,"くさぶえ","Grass Flute",3,12,0,15,55,0,10,1,2,"",4,5,19
+321,tickle,Tickle,"くすぐる",Tickle,3,1,0,20,100,0,10,1,206,"",3,33,19
+322,cosmic-power,"Cosmic Power","コスモパワー","Cosmos Power",3,14,0,20,"",0,7,1,207,"",1,32,11
+323,water-spout,"Water Spout","しおふき","Whale Spout",3,11,150,5,100,0,11,3,191,"",2,26,22
+324,signal-beam,"Signal Beam","シグナルビーム","Signal Beam",3,7,75,15,100,0,10,3,77,10,2,21,4
+325,shadow-punch,"Shadow Punch","シャドーパンチ","Shadow Punch",3,8,60,20,"",0,10,2,18,"",4,27,17
+326,extrasensory,Extrasensory,"じんつうりき","Supernatural Power",3,14,80,30,100,0,10,3,32,10,1,4,17
+327,sky-uppercut,"Sky Uppercut","スカイアッパー","Sky Upper",3,2,85,15,90,0,10,2,208,"",1,23,17
+328,sand-tomb,"Sand Tomb","すなじごく","Sand Hell",3,5,35,15,85,0,10,2,43,100,4,24,21
+329,sheer-cold,"Sheer Cold","ぜったいれいど","Absolute Zero",3,15,1,5,30,0,10,3,39,"",2,14,9
+330,muddy-water,"Muddy Water","だくりゅう","Muddy River",3,11,95,10,85,0,11,3,74,30,5,10,18
+331,bullet-seed,"Bullet Seed","タネマシンガン","Seed Machine Gun",3,12,25,30,100,0,10,2,30,"",1,14,7
+332,aerial-ace,"Aerial Ace","つばめがえし","Swallow Return",3,3,60,20,"",0,10,2,18,"",1,27,17
+333,icicle-spear,"Icicle Spear","つららばり","Icicle Needle",3,15,25,30,100,0,10,2,30,"",2,23,7
+334,iron-defense,"Iron Defense","てっぺき","Iron Wall",3,9,0,15,"",0,7,1,52,"",5,15,13
+335,block,Block,"とおせんぼう",Block,3,1,0,5,"",0,10,1,107,"",3,18,13
+336,howl,Howl,"とおぼえ",Howl,3,1,0,40,"",0,7,1,11,"",1,32,11
+337,dragon-claw,"Dragon Claw","ドラゴンクロー","Dragon Claw",3,16,80,15,100,0,10,2,1,"",1,23,17
+338,frenzy-plant,"Frenzy Plant","ハードプラント","Hard Plant",3,12,150,5,90,0,10,3,81,"",1,6,22
+339,bulk-up,"Bulk Up","ビルドアップ",Build-up,3,2,0,20,"",0,7,1,209,"",2,32,11
+340,bounce,Bounce,"とびはねる",Bounce,3,3,85,5,85,0,10,2,264,30,3,15,6
+341,mud-shot,"Mud Shot","マッドショット","Mud Shot",3,5,55,15,95,0,10,3,71,100,5,5,2
+342,poison-tail,"Poison Tail","ポイズンテール","Poison Tail",3,4,50,25,100,0,10,2,210,10,4,33,4
+343,covet,Covet,"ほしがる",Covet,3,1,60,40,100,0,10,2,106,"",3,20,12
+344,volt-tackle,"Volt Tackle","ボルテッカー",Volteccer,3,13,120,15,100,0,10,2,263,10,1,3,22
+345,magical-leaf,"Magical Leaf","マジカルリーフ","Magical Leaf",3,12,60,20,"",0,10,3,18,"",2,27,17
+346,water-sport,"Water Sport","みずあそび","Water Game",3,11,0,15,"",0,12,1,211,"",3,1,13
+347,calm-mind,"Calm Mind","めいそう",Meditation,3,14,0,20,"",0,7,1,212,"",4,16,11
+348,leaf-blade,"Leaf Blade","リーフブレード","Leaf Blade",3,12,90,15,100,0,10,2,44,"",1,2,17
+349,dragon-dance,"Dragon Dance","りゅうのまい","Dragon Dance",3,16,0,20,"",0,7,1,213,"",1,32,11
+350,rock-blast,"Rock Blast","ロックブラスト","Rock Blast",3,6,25,10,90,0,10,2,30,"",5,12,7
+351,shock-wave,"Shock Wave","でんげきは","Electric Shock Wave",3,13,60,20,"",0,10,3,18,"",1,27,17
+352,water-pulse,"Water Pulse","みずのはどう","Water Pulse",3,11,60,20,100,0,10,3,77,20,2,21,17
+353,doom-desire,"Doom Desire","はめつのねがい","Doom Desire",3,9,140,5,100,0,10,3,149,"",1,24,17
+354,psycho-boost,"Psycho Boost","サイコブースト",Psychoboost,3,14,140,5,90,0,10,3,205,100,4,3,22
+355,roost,Roost,"はねやすめ","Feather Rest",4,3,0,10,"",0,7,1,215,"",1,"",8
+356,gravity,Gravity,"じゅうりょく",Gravity,4,14,0,5,"",0,12,1,216,"",2,"",13
+357,miracle-eye,"Miracle Eye","ミラクルアイ","Miracle Eye",4,14,0,40,"",0,10,1,217,"",3,"",20
+358,wake-up-slap,"Wake-Up Slap","めざましビンタ","Awakening Slap",4,2,60,10,100,0,10,2,218,"",4,"",16
+359,hammer-arm,"Hammer Arm","アームハンマー","Arm Hammer",4,2,100,10,90,0,10,2,219,100,1,"",2
+360,gyro-ball,"Gyro Ball","ジャイロボール","Gyro Ball",4,9,1,5,100,0,10,2,220,"",2,"",15
+361,healing-wish,"Healing Wish","いやしのねがい","Healing Wish",4,14,0,10,"",0,7,1,221,"",3,"",8
+362,brine,Brine,"しおみず","Salt Water",4,11,65,10,100,0,10,3,222,"",4,"",4
+363,natural-gift,"Natural Gift","しぜんのめぐみ","Nature's Blessing",4,1,1,15,100,0,10,2,223,"",1,"",18
+364,feint,Feint,"フェイント",Feint,4,1,50,10,100,2,10,2,224,"",2,"",16
+365,pluck,Pluck,"ついばむ",Pick,4,3,60,20,100,0,10,2,225,"",3,"",12
+366,tailwind,Tailwind,"おいかぜ",Tailwind,4,3,0,30,"",0,4,1,226,"",4,"",1
+367,acupressure,Acupressure,"つぼをつく","Point Strike",4,1,0,30,"",0,5,1,227,"",1,"",11
+368,metal-burst,"Metal Burst","メタルバースト","Metal Burst",4,9,1,10,100,0,1,2,228,"",2,"",15
+369,u-turn,U-turn,"とんぼがえり",Round-trip,4,7,70,20,100,0,10,2,229,"",3,"",16
+370,close-combat,"Close Combat","インファイト",Infight,4,2,120,5,100,0,10,2,230,100,4,"",22
+371,payback,Payback,"しっぺがえし",Retribution,4,17,50,10,100,0,10,2,231,"",1,"",6
+372,assurance,Assurance,"ダメおし","Make Sure",4,17,50,10,100,0,10,2,232,"",2,"",15
+373,embargo,Embargo,"さしおさえ",Seize,4,17,0,15,100,0,10,1,233,"",3,"",13
+374,fling,Fling,"なげつける",Throw,4,17,1,10,100,0,10,2,234,"",5,"",23
+375,psycho-shift,"Psycho Shift","サイコシフト",Psychoshift,4,14,0,10,90,0,10,1,235,"",1,"",16
+376,trump-card,"Trump Card","きりふだ","Trump Card",4,1,1,5,"",0,10,3,236,"",1,"",21
+377,heal-block,"Heal Block","かいふくふうじ","Restore Seal",4,14,0,15,100,0,11,1,237,"",3,"",13
+378,wring-out,"Wring Out","しぼりとる","Wring Out",4,1,1,5,100,0,10,3,238,"",4,"",22
+379,power-trick,"Power Trick","パワートリック","Power Trick",4,14,0,10,"",0,7,1,239,"",1,"",16
+380,gastro-acid,"Gastro Acid","いえき","Gastric Juice",4,4,0,10,100,0,10,1,240,"",2,"",13
+381,lucky-chant,"Lucky Chant","おまじない","Good Luck Charm",4,1,0,30,"",0,4,1,241,"",3,"",13
+382,me-first,"Me First","さきどり","Take in Advance",4,1,1,20,"",0,2,1,242,"",3,"",1
+383,copycat,Copycat,"まねっこ",Imitate,4,1,0,20,"",0,7,1,243,"",1,"",12
+384,power-swap,"Power Swap","パワースワップ","Power Swap",4,14,0,10,"",0,10,1,244,"",2,"",16
+385,guard-swap,"Guard Swap","ガードスワップ","Guard Swap",4,14,0,10,"",0,10,1,245,"",3,"",16
+386,punishment,Punishment,"おしおき",Punishment,4,17,1,5,100,0,10,2,246,"",4,"",23
+387,last-resort,"Last Resort","とっておき","The Best",4,1,140,5,100,0,10,2,247,"",3,"",21
+388,worry-seed,"Worry Seed","なやみのタネ","Worry Seed",4,12,0,10,100,0,10,1,248,"",2,"",19
+389,sucker-punch,"Sucker Punch","ふいうち","Surprise Attack",4,17,80,5,100,1,10,2,249,"",4,"",1
+390,toxic-spikes,"Toxic Spikes","どくびし","Toxic Spikes",4,4,0,20,"",0,6,1,250,"",4,"",13
+391,heart-swap,"Heart Swap","ハートスワップ","Heart Swap",4,14,0,10,"",0,10,1,251,"",1,"",16
+392,aqua-ring,"Aqua Ring","アクアリング","Aqua Ring",4,11,0,20,"",0,7,1,252,"",2,"",8
+393,magnet-rise,"Magnet Rise","でんじふゆう","Electromagnetic Levitation",4,13,0,10,"",0,7,1,253,"",3,"",13
+394,flare-blitz,"Flare Blitz","フレアドライブ","Flare Drive",4,10,120,15,100,0,10,2,254,10,4,"",22
+395,force-palm,"Force Palm","はっけい","Force Exert",4,2,60,10,100,0,10,2,7,30,1,"",18
+396,aura-sphere,"Aura Sphere","はどうだん","Wave Bomb",4,2,90,20,"",0,10,3,18,"",2,"",17
+397,rock-polish,"Rock Polish","ロックカット","Rock Cut",4,6,0,20,"",0,7,1,53,"",5,"",1
+398,poison-jab,"Poison Jab","どくづき","Poison Stab",4,4,80,20,100,0,10,2,3,30,4,"",4
+399,dark-pulse,"Dark Pulse","あくのはどう","Evil Pulse",4,17,80,15,100,0,10,3,32,20,1,"",17
+400,night-slash,"Night Slash","つじぎり","Blade Testing",4,17,70,15,100,0,10,2,44,"",2,"",5
+401,aqua-tail,"Aqua Tail","アクアテール","Aqua Tail",4,11,90,10,90,0,10,2,1,"",3,"",5
+402,seed-bomb,"Seed Bomb","タネばくだん","Seed Bomb",4,12,80,15,100,0,10,2,1,"",4,"",5
+403,air-slash,"Air Slash","エアスラッシュ","Air Slash",4,3,75,20,95,0,10,3,32,30,1,"",17
+404,x-scissor,X-Scissor,"シザークロス","Scissor Cross",4,7,80,15,100,0,10,2,1,"",2,"",17
+405,bug-buzz,"Bug Buzz","むしのさざめき","Insect Noise",4,7,90,10,100,0,10,3,73,10,3,"",4
+406,dragon-pulse,"Dragon Pulse","りゅうのはどう","Dragon Pulse",4,16,90,10,100,0,10,3,1,"",4,"",4
+407,dragon-rush,"Dragon Rush","ドラゴンダイブ","Dragon Dive",4,16,100,10,75,0,10,2,32,20,1,"",18
+408,power-gem,"Power Gem","パワージェム","Power Gem",4,6,70,20,100,0,10,3,1,"",2,"",5
+409,drain-punch,"Drain Punch","ドレインパンチ","Drain Punch",4,2,75,10,100,0,10,2,4,"",2,"",20
+410,vacuum-wave,"Vacuum Wave","しんくうは","Vacuum Wave",4,2,40,30,100,1,10,3,104,"",4,"",1
+411,focus-blast,"Focus Blast","きあいだま","Fighting Spirit Bullet",4,2,120,5,70,0,10,3,73,10,1,"",17
+412,energy-ball,"Energy Ball","エナジーボール","Energy Ball",4,12,80,10,100,0,10,3,73,10,2,"",17
+413,brave-bird,"Brave Bird","ブレイブバード","Brave Bird",4,3,120,15,100,0,10,2,199,"",3,"",18
+414,earth-power,"Earth Power","だいちのちから","Earth Power",4,5,90,10,100,0,10,3,73,10,4,"",18
+415,switcheroo,Switcheroo,"すりかえ","Secret Switch",4,17,0,10,100,0,10,1,178,"",1,"",12
+416,giga-impact,"Giga Impact","ギガインパクト","Giga Impact",4,1,150,5,90,0,10,2,81,"",2,"",22
+417,nasty-plot,"Nasty Plot","わるだくみ","Sinister Plot",4,17,0,20,"",0,7,1,54,"",3,"",11
+418,bullet-punch,"Bullet Punch","バレットパンチ","Bullet Punch",4,9,40,30,100,1,10,2,104,"",4,"",1
+419,avalanche,Avalanche,"ゆきなだれ","Snow Avalanche",4,15,60,10,100,-4,10,2,186,"",1,"",15
+420,ice-shard,"Ice Shard","こおりのつぶて","Ice Throwing Stone",4,15,40,30,100,1,10,2,104,"",2,"",1
+421,shadow-claw,"Shadow Claw","シャドークロー","Shadow Claw",4,8,70,15,100,0,10,2,44,"",3,"",17
+422,thunder-fang,"Thunder Fang","かみなりのキバ","Thunder Fang",4,13,65,15,95,0,10,2,276,10,4,"",5
+423,ice-fang,"Ice Fang","こおりのキバ","Ice Fang",4,15,65,15,95,0,10,2,275,10,1,"",5
+424,fire-fang,"Fire Fang","ほのおのキバ","Fire Fang",4,10,65,15,95,0,10,2,274,10,2,"",5
+425,shadow-sneak,"Shadow Sneak","かげうち","Shadow Strike",4,8,40,30,100,1,10,2,104,"",4,"",1
+426,mud-bomb,"Mud Bomb","どろばくだん","Mud Bomb",4,5,65,10,85,0,10,3,74,30,4,"",18
+427,psycho-cut,"Psycho Cut","サイコカッター",Psychocutter,4,14,70,20,100,0,10,2,44,"",1,"",17
+428,zen-headbutt,"Zen Headbutt","しねんのずつき","Thought Headbutt",4,14,80,15,90,0,10,2,32,20,2,"",18
+429,mirror-shot,"Mirror Shot","ミラーショット","Mirror Shot",4,9,65,10,85,0,10,3,74,30,3,"",17
+430,flash-cannon,"Flash Cannon","ラスターカノン","Luster Cannon",4,9,80,10,100,0,10,3,73,10,4,"",17
+431,rock-climb,"Rock Climb","ロッククライム","Rock Climb",4,1,90,20,85,0,10,2,77,20,1,"",18
+432,defog,Defog,"きりばらい","Fog Wipe",4,3,0,15,"",0,10,1,259,"",2,"",13
+433,trick-room,"Trick Room","トリックルーム","Trick Room",4,14,0,5,"",-7,12,1,260,"",3,"",14
+434,draco-meteor,"Draco Meteor","りゅうせいぐん","Dragon Meteor Shower",4,16,140,5,90,0,10,3,205,100,4,"",22
+435,discharge,Discharge,"ほうでん","Electrical Discharge",4,13,80,15,100,0,9,3,7,30,1,"",17
+436,lava-plume,"Lava Plume","ふんえん","Smoke Burst",4,10,80,15,100,0,9,3,5,30,5,"",17
+437,leaf-storm,"Leaf Storm","リーフストーム","Leaf Storm",4,12,140,5,90,0,10,3,205,100,3,"",22
+438,power-whip,"Power Whip","パワーウィップ","Power Whip",4,12,120,10,85,0,10,2,1,"",2,"",5
+439,rock-wrecker,"Rock Wrecker","がんせきほう","Rock Cannon",4,6,150,5,90,0,10,2,81,"",5,"",22
+440,cross-poison,"Cross Poison","クロスポイズン","Cross Poison",4,4,70,20,100,0,10,2,210,10,1,"",5
+441,gunk-shot,"Gunk Shot","ダストシュート","Dust Shoot",4,4,120,5,70,0,10,2,3,30,1,"",5
+442,iron-head,"Iron Head","アイアンヘッド","Iron Head",4,9,80,15,100,0,10,2,32,30,5,"",18
+443,magnet-bomb,"Magnet Bomb","マグネットボム","Magnet Bomb",4,9,60,20,"",0,10,2,18,"",1,"",5
+444,stone-edge,"Stone Edge","ストーンエッジ","Stone Edge",4,6,100,5,80,0,10,2,44,"",5,"",4
+445,captivate,Captivate,"ゆうわく",Allure,4,1,0,20,100,0,11,1,266,"",2,"",19
+446,stealth-rock,"Stealth Rock","ステルスロック","Stealth Rock",4,6,0,20,"",0,6,1,267,"",1,"",13
+447,grass-knot,"Grass Knot","くさむすび","Grass Rope",4,12,1,20,100,0,10,3,197,"",4,"",4
+448,chatter,Chatter,"おしゃべり",Chatter,4,3,60,20,100,0,10,3,268,"",4,"",23
+449,judgment,Judgment,"さばきのつぶて","Judgment Strike",4,1,100,10,100,0,10,3,269,"",4,"",14
+450,bug-bite,"Bug Bite","むしくい","Bug Bite",4,7,60,20,100,0,10,2,225,"",5,"",12
+451,charge-beam,"Charge Beam","チャージビーム","Charge Beam",4,13,50,10,90,0,10,3,277,70,2,"",17
+452,wood-hammer,"Wood Hammer","ウッドハンマー","Wood Hammer",4,12,120,15,100,0,10,2,199,"",5,"",18
+453,aqua-jet,"Aqua Jet","アクアジェット","Aqua Jet",4,11,40,20,100,1,10,2,104,"",2,"",1
+454,attack-order,"Attack Order","こうげきしれい","Attack Order",4,7,90,15,100,0,10,2,44,"",4,"",4
+455,defend-order,"Defend Order","ぼうぎょしれい","Defend Order",4,7,0,10,"",0,7,1,207,"",4,"",11
+456,heal-order,"Heal Order","かいふくしれい","Heal Order",4,7,0,10,"",0,7,1,33,"",4,"",8
+457,head-smash,"Head Smash","もろはのずつき","Double-Edged Headbutt",4,6,150,5,80,0,10,2,270,"",5,"",22
+458,double-hit,"Double Hit","ダブルアタック","Double Attack",4,1,35,10,90,0,10,2,45,"",4,"",7
+459,roar-of-time,"Roar of Time","ときのほうこう","Roar of Time",4,16,150,5,90,0,10,3,81,"",1,"",22
+460,spacial-rend,"Spacial Rend","あくうせつだん","Subspace Tear",4,16,100,5,95,0,10,3,44,"",5,"",4
+461,lunar-dance,"Lunar Dance","みかづきのまい","Crescent Moon Dance",4,14,0,10,"",0,7,1,271,"",2,"",8
+462,crush-grip,"Crush Grip","にぎりつぶす","Grip Crush",4,1,1,5,100,0,10,2,238,"",5,"",15
+463,magma-storm,"Magma Storm","マグマストーム","Magma Storm",4,10,120,5,75,0,10,3,43,100,5,"",7
+464,dark-void,"Dark Void","ダークホール","Dark Hole",4,17,0,10,80,0,11,1,2,"",4,"",19
+465,seed-flare,"Seed Flare","シードフレア","Seed Flare",4,12,120,5,85,0,10,3,272,40,1,"",22
+466,ominous-wind,"Ominous Wind","あやしいかぜ","Suspicious Wind",4,8,60,5,100,0,10,3,141,10,4,"",11
+467,shadow-force,"Shadow Force","シャドーダイブ","Shadow Dive",4,8,120,5,100,0,10,2,273,"",4,"",22
+468,hone-claws,"Hone Claws","つめとぎ","Claw Sharpen",5,17,0,15,"",0,7,1,278,"","","",""
+469,wide-guard,"Wide Guard","ワイドガード","Wide Guard",5,6,0,10,"",3,4,1,279,"","","",""
+470,guard-split,"Guard Split","ガードシェア","Guard Share",5,14,0,10,"",0,10,1,280,"","","",""
+471,power-split,"Power Split","パワーシェア","Power Share",5,14,0,10,"",0,10,1,281,"","","",""
+472,wonder-room,"Wonder Room","ワンダールーム","Wonder Room",5,14,0,10,"",-7,12,1,282,"","","",""
+473,psyshock,Psyshock,"サイコショック","Psycho Shock",5,14,80,10,100,0,10,3,283,"","","",""
+474,venoshock,Venoshock,"ベノムショック","Venom Shock",5,4,65,10,100,0,10,3,284,"","","",""
+475,autotomize,Autotomize,"ボディパージ","Body Purge",5,9,0,15,"",0,7,1,285,"","","",""
+476,rage-powder,"Rage Powder","いかりのこな","Rage Powder",5,7,0,20,"",3,7,1,173,"","","",""
+477,telekinesis,Telekinesis,"テレキネシス",Telekinesis,5,14,0,15,"",0,10,1,286,"","","",""
+478,magic-room,"Magic Room","マジックルーム","Magic Room",5,14,0,10,"",-7,12,1,287,"","","",""
+479,smack-down,"Smack Down","うちおとす","Knock Down",5,6,50,15,100,0,10,2,288,100,"","",""
+480,storm-throw,"Storm Throw","やまあらし","Mountain Storm",5,2,40,10,100,0,10,2,289,"","","",""
+481,flame-burst,"Flame Burst","はじけるほのお","Flame Burst",5,10,70,15,100,0,10,3,290,"","","",""
+482,sludge-wave,"Sludge Wave","ヘドロウェーブ","Sludge Wave",5,4,95,10,100,0,9,3,3,10,"","",""
+483,quiver-dance,"Quiver Dance","ちょうのまい","Butterfly Dance",5,7,0,20,"",0,7,1,291,"","","",""
+484,heavy-slam,"Heavy Slam","ヘビーボンバー","Heavy Bomber",5,9,1,10,100,0,10,2,292,"","","",""
+485,synchronoise,Synchronoise,"シンクロノイズ","Synchro Noise",5,14,70,15,100,0,9,3,293,"","","",""
+486,electro-ball,"Electro Ball","エレキボール",Elecball,5,13,1,10,100,0,10,3,294,"","","",""
+487,soak,Soak,"みずびたし",Waterlog,5,11,0,20,100,0,10,1,295,"","","",""
+488,flame-charge,"Flame Charge","ニトロチャージ","Nitro Charge",5,10,50,20,100,0,10,2,296,100,"","",""
+489,coil,Coil,"とぐろをまく","Coil Around",5,4,0,20,"",0,7,1,323,"","","",""
+490,low-sweep,"Low Sweep","ローキック","Low Kick",5,2,60,20,100,0,10,2,21,100,"","",""
+491,acid-spray,"Acid Spray","アシッドボム","Acid Bomb",5,4,40,20,100,0,10,3,297,100,"","",""
+492,foul-play,"Foul Play","イカサマ",Trickery,5,17,95,15,100,0,10,2,298,"","","",""
+493,simple-beam,"Simple Beam","シンプルビーム","Simple Beam",5,1,0,15,100,0,10,1,299,"","","",""
+494,entrainment,Entrainment,"なかまづくり",Befriend,5,1,0,15,100,0,10,1,300,"","","",""
+495,after-you,"After You","おさきにどうぞ","Go Ahead",5,1,0,15,"",0,10,1,301,"","","",""
+496,round,Round,"りんしょう",Canon,5,1,60,15,100,0,10,3,302,"","","",""
+497,echoed-voice,"Echoed Voice","エコーボイス","Echo Voice",5,1,40,15,100,0,10,3,303,"","","",""
+498,chip-away,"Chip Away","なしくずし","Little by Little",5,1,70,20,100,0,10,2,304,"","","",""
+499,clear-smog,"Clear Smog","クリアスモッグ","Clear Smog",5,4,50,15,"",0,10,3,305,"","","",""
+500,stored-power,"Stored Power","アシストパワー","Assist Power",5,14,20,10,100,0,10,3,306,"","","",""
+501,quick-guard,"Quick Guard","ファストガード","Fast Guard",5,2,0,15,"",3,4,1,307,"","","",""
+502,ally-switch,"Ally Switch","サイドチェンジ","Side Change",5,14,0,15,"",1,7,1,308,"","","",""
+503,scald,Scald,"ねっとう","Boiling Water",5,11,80,15,100,0,10,3,5,30,"","",""
+504,shell-smash,"Shell Smash","からをやぶる","Shell Break",5,1,0,15,"",0,7,1,309,"","","",""
+505,heal-pulse,"Heal Pulse","いやしのはどう","Healing Wave",5,14,0,10,"",0,10,1,310,"","","",""
+506,hex,Hex,"たたりめ","Evil Eye",5,8,50,10,100,0,10,3,311,"","","",""
+507,sky-drop,"Sky Drop","フリーフォール",Freefall,5,3,60,10,100,0,10,2,312,"","","",""
+508,shift-gear,"Shift Gear","ギアチェンジ","Gear Change",5,9,0,10,"",0,7,1,313,"","","",""
+509,circle-throw,"Circle Throw","ともえなげ","Overhead Throw",5,2,60,10,90,-6,10,2,314,"","","",""
+510,incinerate,Incinerate,"やきつくす","Complete Burn",5,10,30,15,100,0,11,3,315,"","","",""
+511,quash,Quash,"さきおくり",Postpone,5,17,0,15,100,0,10,1,316,"","","",""
+512,acrobatics,Acrobatics,"アクロバット",Acrobat,5,3,55,15,100,0,10,2,318,"","","",""
+513,reflect-type,"Reflect Type","ミラータイプ","Mirror Type",5,1,0,15,"",0,10,1,319,"","","",""
+514,retaliate,Retaliate,"かたきうち",Retaliation,5,1,70,5,100,0,10,2,320,"","","",""
+515,final-gambit,"Final Gambit","いのちがけ","Extreme Risk",5,2,1,5,100,0,10,3,321,"","","",""
+516,bestow,Bestow,"ギフトパス","Gift Pass",5,1,0,15,"",0,10,1,324,"","","",""
+517,inferno,Inferno,"れんごく",Purgatory,5,10,100,5,50,0,10,3,5,100,"","",""
+518,water-pledge,"Water Pledge","みずのちかい","Water Oath",5,11,50,10,100,0,10,3,325,"","","",""
+519,fire-pledge,"Fire Pledge","ほのおのちかい","Fire Oath",5,10,50,10,100,0,10,3,326,"","","",""
+520,grass-pledge,"Grass Pledge","くさのちかい","Grass Oath",5,12,50,10,100,0,10,3,327,"","","",""
+521,volt-switch,"Volt Switch","ボルトチェンジ","Volt Change",5,13,70,20,100,0,10,3,229,"","","",""
+522,struggle-bug,"Struggle Bug","むしのていこう","Insect Opposition",5,7,30,20,100,0,11,3,72,100,"","",""
+523,bulldoze,Bulldoze,"じならし","Smooth Over",5,5,60,20,100,0,9,2,71,100,"","",""
+524,frost-breath,"Frost Breath","こおりのいぶき","Ice Breath",5,15,40,10,90,0,10,3,289,100,"","",""
+525,dragon-tail,"Dragon Tail","ドラゴンテール","Dragon Tail",5,16,60,10,90,-6,10,2,314,"","","",""
+526,work-up,"Work Up","ふるいたてる","Cheer Up",5,1,0,30,"",0,7,1,328,"","","",""
+527,electroweb,Electroweb,"エレキネット",ElecNet,5,13,55,15,95,0,11,3,21,100,"","",""
+528,wild-charge,"Wild Charge","ワイルドボルト","Wild Bolt",5,13,90,15,100,0,10,2,49,"","","",""
+529,drill-run,"Drill Run","ドリルライナー","Drill Liner",5,5,80,10,95,0,10,2,44,"","","",""
+530,dual-chop,"Dual Chop","ダブルチョップ","Double Chop",5,16,40,15,90,0,10,2,45,"","","",""
+531,heart-stamp,"Heart Stamp","ハートスタンプ","Heart Stamp",5,14,60,25,100,0,10,2,32,30,"","",""
+532,horn-leech,"Horn Leech","ウッドホーン","Wood Horn",5,12,75,10,100,0,10,2,4,"","","",""
+533,sacred-sword,"Sacred Sword","せいなるつるぎ","Sacred Sword",5,2,90,20,100,0,10,2,304,"","","",""
+534,razor-shell,"Razor Shell","シェルブレード","Shell Blade",5,11,75,10,95,0,10,2,70,50,"","",""
+535,heat-crash,"Heat Crash","ヒートスタンプ","Heat Stamp",5,10,1,10,100,0,10,2,292,"","","",""
+536,leaf-tornado,"Leaf Tornado","グラスミキサー","Grass Mixer",5,12,65,10,90,0,10,3,74,50,"","",""
+537,steamroller,Steamroller,"ハードローラー","Hard Roller",5,7,65,20,100,0,10,2,151,30,"","",""
+538,cotton-guard,"Cotton Guard","コットンガード","Cotton Guard",5,12,0,10,"",0,7,1,329,"","","",""
+539,night-daze,"Night Daze","ナイトバースト","Night Burst",5,17,85,10,95,0,10,3,74,40,"","",""
+540,psystrike,Psystrike,"サイコブレイク","Psycho Break",5,14,100,10,100,0,10,3,283,"","","",""
+541,tail-slap,"Tail Slap","スイープビンタ","Sweep Slap",5,1,25,10,85,0,10,2,30,"","","",""
+542,hurricane,Hurricane,"ぼうふう",Windstorm,5,3,120,10,70,0,10,3,338,30,"","",""
+543,head-charge,"Head Charge","アフロブレイク","Afro Break",5,1,120,15,100,0,10,2,49,"","","",""
+544,gear-grind,"Gear Grind","ギアソーサー","Gear Saucer",5,9,50,15,85,0,10,2,45,"","","",""
+545,searing-shot,"Searing Shot","かえんだん","Flame Bomb",5,10,100,5,100,0,9,3,5,30,"","",""
+546,techno-blast,"Techno Blast","テクノバスター","Techno Buster",5,1,85,5,100,0,10,3,269,"","","",""
+547,relic-song,"Relic Song","いにしえのうた","Ancient Song",5,1,75,10,100,0,11,3,330,10,"","",""
+548,secret-sword,"Secret Sword","しんぴのつるぎ","Sword of Mystery",5,2,85,10,100,0,10,3,283,"","","",""
+549,glaciate,Glaciate,"こごえるせかい","Frozen World",5,15,65,10,95,0,11,3,331,100,"","",""
+550,bolt-strike,"Bolt Strike","らいげき","Lightning Strike",5,13,130,5,85,0,10,2,7,20,"","",""
+551,blue-flare,"Blue Flare","あおいほのお","Blue Fire",5,10,130,5,85,0,10,3,5,20,"","",""
+552,fiery-dance,"Fiery Dance","ほのおのまい","Fire Dance",5,10,80,10,100,0,10,3,277,50,"","",""
+553,freeze-shock,"Freeze Shock","フリーズボルト","Freeze Bolt",5,15,140,5,90,0,10,2,332,30,"","",""
+554,ice-burn,"Ice Burn","コールドフレア","Cold Flare",5,15,140,5,90,0,10,3,333,30,"","",""
+555,snarl,Snarl,"バークアウト","Bark Out",5,17,55,15,95,0,11,3,72,100,"","",""
+556,icicle-crash,"Icicle Crash","つららおとし","Icicle Drop",5,15,85,10,90,0,10,2,32,30,"","",""
+557,v-create,V-create,"Ｖジェネレート",V-generate,5,10,180,5,95,0,10,2,335,"","","",""
+558,fusion-flare,"Fusion Flare","クロスフレイム","Cross Flame",5,10,100,5,100,0,10,3,336,"","","",""
+559,fusion-bolt,"Fusion Bolt","クロスサンダー","Cross Thunder",5,13,100,5,100,0,10,2,337,"","","",""

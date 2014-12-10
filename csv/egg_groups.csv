@@ -1,0 +1,16 @@
+id,identifier,name,name_jp,list_order,legacy_id
+1,monster,Monster,"かいじゅう",2,9
+2,water-1,"Water 1","すいちゅう１",8,11
+3,bug,Bug,"むし",3,1
+4,flying,Flying,"ひこう",4,4
+5,ground,Ground,"りくじょう",5,5
+6,fairy,Fairy,"ようせい",6,3
+7,plant,Plant,"しょくぶつ",7,10
+8,humanshape,Humanshape,"ひとがた",11,6
+9,water-3,"Water 3","すいちゅう３",10,13
+10,mineral,Mineral,"こうぶつ",12,8
+11,amorphous,Amorphous,"ふていけい",14,7
+12,water-2,"Water 2","すいちゅう２",9,12
+13,ditto,Ditto,"メタモン",15,14
+14,dragon,Dragon,"ドラゴン",13,2
+15,no-eggs,"No Eggs","タマゴみはっけん",1,0
