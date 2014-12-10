@@ -14,6 +14,7 @@ While the actual source file was a standard SQLite file, I've dumped out the con
 Enjoy! :)
 
 -Timothy 'TiM' Oliver
+
 iPokédex Developer
 
 ##Installation
